@@ -15,14 +15,6 @@ public:
             }
         }
 
-        // vector<int> arr(n, 0);
-        // int cumSum = diffArr[0];
-        // arr[0] = diffArr[0];
-
-        // for(int i=1;i<n;i++){
-        //     cumSum += diffArr[i];
-        //     arr[i] = cumSum;
-        // }
         //taking cummulative sum in diffArr
         for(int i=1;i<n;i++){
             diffArr[i] += diffArr[i-1];

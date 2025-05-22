@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -16,4 +17,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        //BRute force sol -  set
+        //optimal - 2 pointer 
+        int i=0;
+        for(int j=i+1;j<nums.size();j++){
+            if(nums[j] != nums[i]){
+                nums[i+1]=nums[j];
+                i=i+1;
+            }
+        }
+        return i+1;
+    }
+};

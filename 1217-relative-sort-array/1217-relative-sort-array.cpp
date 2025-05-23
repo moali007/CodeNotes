@@ -1,33 +1,32 @@
 class Solution {
 public:
-    vector<int> relativeSortArray(vector<int>& A1, vector<int>& A2) {
-        int N = A1.size();
-        int M = A2.size();
-        unordered_map<int, int> mp;
-        for(int i=0;i<N;i++){
-            mp[A1[i]]++;
+    vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
+        int n = arr1.size();
+        int m = arr2.size();
+
+        map<int, int> mp;
+        for(int i=0;i<n;i++){
+            mp[arr1[i]]++;
         }
-        
+
         vector<int> ans;
-        
-        for(int i=0;i<M;i++){
-            int num = A2[i];
-            int freq = mp[A2[i]];
-            
+        for(int i=0;i<m;i++){
+            int num = arr2[i];
+            int freq = mp[arr2[i]];
+
             while(freq--){
                 ans.push_back(num);
             }
+
+            mp.erase(num);
         }
-        
-        sort(A1.begin(), A1.end());
-        set<int> st(ans.begin(), ans.end());
-        
-        for(int i=0;i<N;i++){
-            if(st.find(A1[i]) == st.end()){
-                ans.push_back(A1[i]);
+
+        for(auto it : mp){
+            while(it.second--){
+                ans.push_back(it.first);
             }
         }
-        
+
         return ans;
     }
 };

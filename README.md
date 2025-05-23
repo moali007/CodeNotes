@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
@@ -45,5 +46,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

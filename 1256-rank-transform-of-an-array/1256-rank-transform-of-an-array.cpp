@@ -3,10 +3,10 @@ public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         int n = arr.size();
 
-        set<int> st(arr.begin(), arr.end());
+        set<int> st(arr.begin(), arr.end());//set will remove duplicates and sort array
         vector<int> sorted;
         for(auto num : st){
-            sorted.push_back(num);
+            sorted.push_back(num);//sorted me sabkuch sorted hoga and no duplicates
         }
 
         unordered_map<int, int> mp;

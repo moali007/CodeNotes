@@ -7,11 +7,11 @@ public:
 
         for(int i=0;i<n;i++){
             string word = words[i];
-            set<char> st;
+            bool present = false;
             for(char ch : word){
-                st.insert(ch);
+                if(ch == x) present = true;
             }
-            if(st.count(x)) ans.push_back(i);
+            if(present == true) ans.push_back(i);
         }
 
         return ans;

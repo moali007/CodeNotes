@@ -1,16 +1,5 @@
 class Solution {
 public:
-    
-                // char ch = s[i];
-                // int idx = ch - 'a';
-
-                // int next_idx = idx + 1;
-                // if(next_idx > 25) next_idx -= 26;
-                // char next_char = 'a' + next_idx;
-
-                // int prev_idx = idx - 1;
-                // if(prev_idx < 0) prev_idx += 26;
-                // char prev_char = 'a' + prev_idx;
 
     bool isAdjacent(char ch1, char ch2){
         //checks if ch2 is adjacent char of ch1
@@ -36,17 +25,17 @@ public:
         for(int i=1;i<n;i++){
            char ch1 = s[i];
 
-           if(!st.empty()){
-              char ch2 = st.top();
-              if(isAdjacent(ch2, ch1) == true){
-                st.pop();
-              }else{
-                st.push(ch1);
-              }
-           }
-           else{
-            st.push(ch1);
-           }
+            if(!st.empty()){
+                    char ch2 = st.top();
+                    if(isAdjacent(ch2, ch1) == true){
+                        st.pop();
+                    }else{
+                        st.push(ch1);
+                    }
+            }
+            else{
+                    st.push(ch1);
+            }
         }
 
         if(st.empty()) return "";

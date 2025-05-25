@@ -46,29 +46,6 @@ public:
                 mp.erase(rev);
             }
 
-            // if(curr == rev){
-            //     if(curr_freq % 2 == 0){
-            //         cnt += (curr_freq)*2;
-            //     }
-            //     else{
-            //         if(isFirstOdd == 0){
-            //             cnt += (curr_freq)*2;
-            //             isFirstOdd = 1;
-            //         }
-            //         else{
-            //             cnt += (curr_freq - 1)*2;
-            //         }
-            //     }
-            // }
-            // else if(curr != rev){
-            //     if(mp.find(rev) != mp.end()){
-            //         int rev_freq = mp[rev];
-
-            //         cnt += (min(curr_freq, rev_freq)) * 4;
-            //         mp.erase(curr);
-            //         mp.erase(rev);
-            //     }
-            // }
         }
 
         return cnt;

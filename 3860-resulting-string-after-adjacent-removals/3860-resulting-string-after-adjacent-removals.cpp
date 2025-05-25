@@ -5,12 +5,12 @@ public:
         //checks if ch2 is adjacent char of ch1
         int idx = ch1 - 'a';
 
-        int next_idx = idx + 1;
-        if(next_idx > 25) next_idx -= 26;
+        int next_idx = (idx + 1) % 26;
+        // if(next_idx > 25) next_idx -= 26;
         char next_char = 'a' + next_idx;
 
-        int prev_idx = idx - 1;
-        if(prev_idx < 0) prev_idx += 26;
+        int prev_idx = (idx - 1 + 26) % 26;
+        // if(prev_idx < 0) prev_idx += 26;
         char prev_char = 'a' + prev_idx;
 
         return (ch2 == next_char || ch2 == prev_char);

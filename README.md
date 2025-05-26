@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
 | [3194-find-words-containing-character](https://github.com/moali007/CodeNotes/tree/master/3194-find-words-containing-character) |
@@ -65,12 +66,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math
 |  |
 | ------- |

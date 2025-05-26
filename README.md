@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moali007/CodeNotes/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/moali007/CodeNotes/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/moali007/CodeNotes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/moali007/CodeNotes/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/moali007/CodeNotes/tree/master/0792-binary-search) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum

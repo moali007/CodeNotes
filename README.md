@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moali007/CodeNotes/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/moali007/CodeNotes/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/moali007/CodeNotes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/moali007/CodeNotes/tree/master/0035-search-insert-position) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |

@@ -18,7 +18,7 @@ public:
             }
         }
         
-        vector<int> ans;
+        vector<int> topo;
         
         queue<int> q;
         
@@ -29,7 +29,7 @@ public:
         while(!q.empty()){
             int node = q.front();
             q.pop();
-            ans.push_back(node);
+            topo.push_back(node);
             
             for(auto it : adj[node]){
                 indegree[it]--;
@@ -38,6 +38,6 @@ public:
             }
         }
         
-        return ans.size() == n;
+        return topo.size() == n;
     }
 };

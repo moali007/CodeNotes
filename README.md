@@ -176,12 +176,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/moali007/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/moali007/CodeNotes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/moali007/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/moali007/CodeNotes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -192,5 +194,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

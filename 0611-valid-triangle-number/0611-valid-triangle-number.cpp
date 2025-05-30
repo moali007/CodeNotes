@@ -4,16 +4,28 @@ public:
         int n = nums.size();
         sort(nums.begin(), nums.end());
 
-        int cnt = 0;
-        for(int i=0;i<n-2;i++){
-            for(int j=i+1;j<n-1;j++){
-                for(int k=j+1;k<n;k++){
-                    if(nums[i] + nums[j] > nums[k]) cnt++;
-                }
+        int index = 0;
+
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] == 0) {
+                index++; // Increment index for each zero
+            } else {
+                break; // Stop once a non-zero element is encountered
             }
         }
 
-        return cnt;
+        int cnt = 0;
+        for(int i=index;i<n;i++){
+            for(int j=i+1;j<n-1;j++){
+               
+
+                int idx = lower_bound(nums.begin(), nums.end(), nums[i]+nums[j]) - (nums.begin() + j);
+
+                cnt += idx-1;
+            }
+        }
+
+        return cnt > 0 ? cnt : 0;
         
     }
 };

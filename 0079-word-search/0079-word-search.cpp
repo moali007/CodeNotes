@@ -7,11 +7,7 @@ public:
             return true;
         }
 
-        if(row<0 || col<0 || row>=m || col>=n || board[row][col] == '$'){
-            return false;
-        }
-
-        if(board[row][col] != word[idx]){
+        if(row<0 || col<0 || row>=m || col>=n || board[row][col] == '$' || board[row][col] != word[idx]){
             return false;
         }
 

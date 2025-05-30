@@ -1,7 +1,7 @@
 class Solution {
 public:
     int m,n;
-
+    // vector<vector<int>> dirs{{-1,0}, {0,1}, {1,0}, {0,-1}};
     bool find(int row, int col, int idx, string &word, vector<vector<char>>& board, int delrow[], int delcol[]){
         if(idx == word.length()){
             return true;
@@ -34,6 +34,8 @@ public:
         board[row][col] = temp;
         return false;
     }
+
+    
 
     bool exist(vector<vector<char>>& board, string word) {
         m = board.size();

@@ -15,13 +15,14 @@ public:
         if(arr.size() == 0 || nums[i] >= arr.back()){
             arr.push_back(nums[i]); //take //do
 
+            // if(arr.size() >= 2){
+            //     ans.push_back(arr);
+            // }
+            f(i+1, nums, arr);
+            
             if(arr.size() >= 2){
                 ans.push_back(arr);
-        
-                // f(i+1, nums, arr);
             }
-            f(i+1, nums, arr);
-
             arr.pop_back(); //undo
         }
     }

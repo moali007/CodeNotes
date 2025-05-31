@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0033-search-in-rotated-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/moali007/CodeNotes/tree/master/0035-search-insert-position) |
+| [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/moali007/CodeNotes/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/moali007/CodeNotes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/moali007/CodeNotes/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
@@ -233,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->

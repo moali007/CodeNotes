@@ -12,7 +12,7 @@ public:
         f(i+1, nums, arr);
 
         //take
-        if(arr.size() == 0 || nums[i] >= arr.back()){
+        if(arr.empty() || nums[i] >= arr.back()){
             arr.push_back(nums[i]); //take //do
 
             if(arr.size() >= 2){

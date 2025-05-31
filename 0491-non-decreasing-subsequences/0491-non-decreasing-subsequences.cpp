@@ -30,9 +30,6 @@ public:
         f(0, nums, arr);
 
         set<vector<int>> st(ans.begin(), ans.end());
-        // for(auto it : ans){
-        //     st.insert(it);
-        // }
         ans.clear();
         for(auto it : st){
             ans.push_back(it);

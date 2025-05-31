@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/moali007/CodeNotes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -238,5 +239,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

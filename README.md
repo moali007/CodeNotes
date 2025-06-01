@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/moali007/CodeNotes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/moali007/CodeNotes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -253,4 +254,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
+| [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->

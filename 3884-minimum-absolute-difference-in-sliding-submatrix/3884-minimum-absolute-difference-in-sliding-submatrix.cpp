@@ -24,7 +24,7 @@ public:
                     for(auto it : unique){
                         vec.push_back(it);
                     }
-                    //vec will be sorted, bas minn diff nikal lo
+                    //vec will be sorted, just calculate minDifference of adjacent elements
                     int minDiff = INT_MAX;
                     for(int z = 1; z < vec.size(); z++){
                         minDiff = min(minDiff, vec[z]-vec[z-1]);

@@ -1,11 +1,12 @@
 class Solution {
 public:
     int n;
-    void solve(int index, vector<int>& cookies, vector<int> &child, vector<int> &unfair, int k){
+    void solve(int index, vector<int>& cookies, vector<int> &child, int &result, int k){
         if(index == n){
             //max value of child ko unfair me daaldo
             int maxUnfair = *max_element(child.begin(), child.end());
-            unfair.push_back(maxUnfair);
+            // unfair.push_back(maxUnfair);
+            result = min(result, maxUnfair);
 
             return;
         }
@@ -15,7 +16,7 @@ public:
             //giving index wali cookie to ith child
             child[i] += cookies[index];
 
-            solve(index + 1, cookies, child, unfair, k);
+            solve(index + 1, cookies, child, result, k);
 
             child[i] -= cookies[index];
         }
@@ -25,14 +26,15 @@ public:
         n = cookies.size();
 
         vector<int> child(k, 0);
-        vector<int> unfair;
+        // vector<int> unfair;
+        int result = INT_MAX;
 
-        solve(0, cookies, child, unfair, k);
+        solve(0, cookies, child, result, k);
 
         //minimum unfair value in unfair vector is answer
-        int minUnfair = *min_element(unfair.begin(), unfair.end());
+        // int minUnfair = *min_element(unfair.begin(), unfair.end());
 
-        return minUnfair;
+        return result;
 
     }
 };

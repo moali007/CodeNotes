@@ -5,7 +5,6 @@ public:
         if(index == n){
             //max value of child ko unfair me daaldo
             int maxUnfair = *max_element(child.begin(), child.end());
-            // unfair.push_back(maxUnfair);
             result = min(result, maxUnfair);
 
             return;
@@ -26,13 +25,9 @@ public:
         n = cookies.size();
 
         vector<int> child(k, 0);
-        // vector<int> unfair;
         int result = INT_MAX;
 
         solve(0, cookies, child, result, k);
-
-        //minimum unfair value in unfair vector is answer
-        // int minUnfair = *min_element(unfair.begin(), unfair.end());
 
         return result;
 

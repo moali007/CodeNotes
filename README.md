@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/moali007/CodeNotes/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/moali007/CodeNotes/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0853-most-profit-assigning-work](https://github.com/moali007/CodeNotes/tree/master/0853-most-profit-assigning-work) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/moali007/CodeNotes/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Matrix
 |  |

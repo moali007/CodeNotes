@@ -9,6 +9,8 @@ public:
 
                 int currVal = grid[i][j];
                 int below = currVal, right = currVal + 1;
+                //below ko currVal iss lie rakha coz agar below na ho tab bhi true ho
+                //similarly right ko aisa value dia jo currVal ke barabar na ho
 
                 if(i+1 < n) below = grid[i+1][j];
                 if(j+1 < m) right = grid[i][j+1];

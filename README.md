@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/moali007/CodeNotes/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/moali007/CodeNotes/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [3194-find-words-containing-character](https://github.com/moali007/CodeNotes/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |

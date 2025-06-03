@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
@@ -274,12 +275,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Enumeration
 |  |
 | ------- |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/moali007/CodeNotes/tree/master/3201-distribute-candies-among-children-ii) |
 ## Bitmask

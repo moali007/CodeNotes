@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
+| [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0792-binary-search](https://github.com/moali007/CodeNotes/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/moali007/CodeNotes/tree/master/0853-most-profit-assigning-work) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -285,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

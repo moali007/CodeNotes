@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Math

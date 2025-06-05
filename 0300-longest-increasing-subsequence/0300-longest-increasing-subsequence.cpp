@@ -45,8 +45,8 @@ public:
        n = nums.size(); 
     //    int prevIdx = -1;
     // return f(0, nums, prevIdx);
-       vector<vector<int>> dp(n, vector<int>(n+1, -1));
-       return memF(0, nums, -1, dp);
+    //    vector<vector<int>> dp(n, vector<int>(n+1, -1));
+    //    return memF(0, nums, -1, dp);
 
         //Tabulation
         // vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
@@ -68,19 +68,19 @@ public:
 
 
         //MOST OPTIMAL - Binary Search
-        // vector<int> temp;
-        // temp.push_back(nums[0]);
+        vector<int> temp;
+        temp.push_back(nums[0]);
 
-        // for(int i=1;i<n;i++){
-        //     if(nums[i] > temp.back()){
-        //         temp.push_back(nums[i]);
-        //     }
-        //     else{
-        //         int idx = lower_bound(temp.begin(), temp.end(), nums[i]) - temp.begin();
-        //         temp[idx] = nums[i];
-        //     }
-        // }
+        for(int i=1;i<n;i++){
+            if(nums[i] > temp.back()){
+                temp.push_back(nums[i]);
+            }
+            else{
+                int idx = lower_bound(temp.begin(), temp.end(), nums[i]) - temp.begin();
+                temp[idx] = nums[i];
+            }
+        }
 
-        // return temp.size();
+        return temp.size();
     }
 };

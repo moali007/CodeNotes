@@ -23,8 +23,8 @@ public:
         //create graph
         unordered_map<char, vector<char>> adj;
         for(int i=0;i<n;i++){
-            int u = s1[i];
-            int v = s2[i];
+            char u = s1[i];
+            char v = s2[i];
 
             adj[u].push_back(v);
             adj[v].push_back(u);

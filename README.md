@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/moali007/CodeNotes/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/moali007/CodeNotes/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
@@ -332,5 +333,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/moali007/CodeNotes/tree/master/0071-simplify-path) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->

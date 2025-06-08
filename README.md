@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/moali007/CodeNotes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/moali007/CodeNotes/tree/master/0792-binary-search) |
+| [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/moali007/CodeNotes/tree/master/0853-most-profit-assigning-work) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/moali007/CodeNotes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/moali007/CodeNotes/tree/master/0792-binary-search) |
+| [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/moali007/CodeNotes/tree/master/0853-most-profit-assigning-work) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
+| [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
+| [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/moali007/CodeNotes/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
@@ -197,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/moali007/CodeNotes/tree/master/0680-valid-palindrome-ii) |
+| [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/moali007/CodeNotes/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
@@ -314,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/moali007/CodeNotes/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
+| [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 ## Combinatorics
 |  |
@@ -346,4 +352,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/moali007/CodeNotes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->

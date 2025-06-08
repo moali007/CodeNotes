@@ -8,7 +8,7 @@ public:
         int i=0,j=0;
         while(i < m && j < n){
             if(s1[i] == s2[j]){
-                i++,j++;
+                i++, j++;
             }
             else j++;
         }

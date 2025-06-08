@@ -26,7 +26,7 @@ public:
 
         int cnt = 0;
 
-        for(auto it : mp){
+        for(auto &it : mp){
             if(checkSubsequence(it.first, s) == true){
                 cnt += it.second;
             }

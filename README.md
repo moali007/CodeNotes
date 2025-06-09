@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/moali007/CodeNotes/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/moali007/CodeNotes/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/moali007/CodeNotes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/moali007/CodeNotes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/moali007/CodeNotes/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/moali007/CodeNotes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/moali007/CodeNotes/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/moali007/CodeNotes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/moali007/CodeNotes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/moali007/CodeNotes/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/moali007/CodeNotes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/moali007/CodeNotes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/moali007/CodeNotes/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Stack
 |  |

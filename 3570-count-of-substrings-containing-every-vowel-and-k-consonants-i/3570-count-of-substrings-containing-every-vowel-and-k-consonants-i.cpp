@@ -40,9 +40,8 @@ public:
     int countOfSubstrings(string word, int k) {
         n = word.length();
         
-        int a = f(word, k); //substrings with vowels <= 5 && consonants <= k
-        // int x = k-1<0 ? 0 : k-1;
-        int b = f(word, k-1); //substrings with vowels <= 5 && consonants <= k-1
+        int a = f(word, k); //substrings with vowels >= 5 && consonants <= k
+        int b = f(word, k-1); //substrings with vowels >= 5 && consonants <= k-1
 
         return a - b;
     }

@@ -19,7 +19,7 @@ public:
                 consonantCnt++;
             }
 
-            while(consonantCnt > k && mp.size() >= 5){
+            while(consonantCnt > k  && mp.size() == 5){
                 if(isVowel(word[i])){
                     mp[word[i]]--;
                     if(mp[word[i]] == 0) mp.erase(word[i]);
@@ -29,9 +29,7 @@ public:
                 i++;
             }
 
-            // if(mp.size() <= vowels && consonantCnt <= k){
                 cnt += j-i+1;
-            // }
 
             j++;
         }
@@ -44,7 +42,7 @@ public:
         
         int a = f(word, k); //substrings with vowels <= 5 && consonants <= k
         // int x = k-1<0 ? 0 : k-1;
-        int b = f(word, k-1); //substrings with vowels <= 5 && consonants <= k
+        int b = f(word, k-1); //substrings with vowels <= 5 && consonants <= k-1
 
         return a - b;
     }

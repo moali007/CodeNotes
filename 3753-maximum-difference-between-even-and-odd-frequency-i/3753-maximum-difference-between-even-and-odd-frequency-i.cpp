@@ -8,7 +8,7 @@ public:
             mp[ch]++;
         }
 
-        int maxOddFreq = 0;
+        int maxOddFreq = INT_MIN;
         int minEvenFreq = INT_MAX;
 
         for(auto it : mp){

@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/moali007/CodeNotes/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0300-longest-increasing-subsequence](https://github.com/moali007/CodeNotes/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/moali007/CodeNotes/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/moali007/CodeNotes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/moali007/CodeNotes/tree/master/0792-binary-search) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/moali007/CodeNotes/tree/master/0071-simplify-path) |
+| [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -395,6 +398,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

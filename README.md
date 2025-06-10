@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/moali007/CodeNotes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/moali007/CodeNotes/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/moali007/CodeNotes/tree/master/0680-valid-palindrome-ii) |
 | [0853-most-profit-assigning-work](https://github.com/moali007/CodeNotes/tree/master/0853-most-profit-assigning-work) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0125-valid-palindrome](https://github.com/moali007/CodeNotes/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/moali007/CodeNotes/tree/master/0680-valid-palindrome-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |

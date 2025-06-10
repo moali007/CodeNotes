@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
+| [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/moali007/CodeNotes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/moali007/CodeNotes/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0071-simplify-path](https://github.com/moali007/CodeNotes/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/moali007/CodeNotes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
@@ -394,4 +396,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

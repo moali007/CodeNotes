@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/moali007/CodeNotes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/moali007/CodeNotes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/moali007/CodeNotes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moali007/CodeNotes/tree/master/0018-4sum) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/moali007/CodeNotes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/moali007/CodeNotes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/moali007/CodeNotes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moali007/CodeNotes/tree/master/0018-4sum) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/moali007/CodeNotes/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/moali007/CodeNotes/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |

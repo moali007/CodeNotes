@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/moali007/CodeNotes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moali007/CodeNotes/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0033-search-in-rotated-sorted-array) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/moali007/CodeNotes/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/moali007/CodeNotes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moali007/CodeNotes/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/moali007/CodeNotes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |

@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [2122-count-special-quadruplets](https://github.com/moali007/CodeNotes/tree/master/2122-count-special-quadruplets) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
+| [2122-count-special-quadruplets](https://github.com/moali007/CodeNotes/tree/master/2122-count-special-quadruplets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [2122-count-special-quadruplets](https://github.com/moali007/CodeNotes/tree/master/2122-count-special-quadruplets) |
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/moali007/CodeNotes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/moali007/CodeNotes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |

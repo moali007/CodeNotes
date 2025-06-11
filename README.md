@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/moali007/CodeNotes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/moali007/CodeNotes/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/moali007/CodeNotes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/moali007/CodeNotes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/moali007/CodeNotes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/moali007/CodeNotes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/moali007/CodeNotes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/moali007/CodeNotes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/moali007/CodeNotes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/moali007/CodeNotes/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/moali007/CodeNotes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |

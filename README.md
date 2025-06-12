@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0046-permutations](https://github.com/moali007/CodeNotes/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/moali007/CodeNotes/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/moali007/CodeNotes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/moali007/CodeNotes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/moali007/CodeNotes/tree/master/0135-candy) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0046-permutations](https://github.com/moali007/CodeNotes/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/moali007/CodeNotes/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/moali007/CodeNotes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/moali007/CodeNotes/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/moali007/CodeNotes/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |

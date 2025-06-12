@@ -22,12 +22,29 @@ public:
         }
     }
 
+    void f(int idx, vector<int>& nums){
+        if(idx == nums.size()){
+            result.push_back(nums);
+            return;
+        }
+
+        for(int i=idx ; i<nums.size() ; i++){
+            swap(nums[idx], nums[i]);
+
+            f(idx+1, nums);
+
+            swap(nums[idx], nums[i]);
+        }
+    }
+
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> temp;
+        // vector<int> temp;
 
-        unordered_set<int> st;
+        // unordered_set<int> st;
 
-        solve(nums, temp, st);
+        // solve(nums, temp, st);
+
+        f(0, nums);
 
         return result;
     }

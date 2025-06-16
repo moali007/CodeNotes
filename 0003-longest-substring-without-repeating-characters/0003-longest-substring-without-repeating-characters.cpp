@@ -10,7 +10,7 @@ public:
 
         while(j < n){
             if(!mp.empty() && mp.find(s[j]) != mp.end()){
-                if(i <= mp[s[j]]){
+                if(mp[s[j]] >= i){
                     i = mp[s[j]] + 1;
                 }
             }

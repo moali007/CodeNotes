@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/moali007/CodeNotes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2122-count-special-quadruplets](https://github.com/moali007/CodeNotes/tree/master/2122-count-special-quadruplets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/moali007/CodeNotes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/moali007/CodeNotes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/moali007/CodeNotes/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/moali007/CodeNotes/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/moali007/CodeNotes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/moali007/CodeNotes/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |

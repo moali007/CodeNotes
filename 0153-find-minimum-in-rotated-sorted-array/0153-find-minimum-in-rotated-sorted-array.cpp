@@ -13,6 +13,6 @@ public:
                 e = mid;
             }
         }
-        return nums[s];
+        return nums[e];
     }
 };

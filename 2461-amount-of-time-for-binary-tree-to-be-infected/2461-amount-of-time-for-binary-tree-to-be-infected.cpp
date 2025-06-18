@@ -31,13 +31,15 @@ public:
         }
     }
 
-TreeNode* findStartNode(TreeNode* root, int start){
-    if(root == NULL) return NULL;
-    if(root->val == start) return root;
-    TreeNode* left = findStartNode(root->left, start);
-    if(left) return left;
-    return findStartNode(root->right, start);
-}
+    TreeNode* findStartNode(TreeNode* root, int start){
+        if(root == NULL) return NULL;
+
+        if(root->val == start) return root;
+        
+        TreeNode* left = findStartNode(root->left, start);
+        if(left) return left;
+        return findStartNode(root->right, start);
+    }
 
 
     int amountOfTime(TreeNode* root, int start) {
@@ -55,7 +57,6 @@ TreeNode* findStartNode(TreeNode* root, int start){
 
         while(!q.empty()){
             int size = q.size();
-            cnt++;
             bool spread = false;
             for(int i=0;i<size;i++){
                 TreeNode* curr = q.front(); q.pop();
@@ -76,10 +77,10 @@ TreeNode* findStartNode(TreeNode* root, int start){
                     q.push(parent_track[curr]);
                 }
             }
-            // if(spread == true) cnt++;
+            if(spread == true) cnt++;
         }
 
-        return cnt-1;
+        return cnt;
 
     }
 };

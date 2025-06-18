@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/moali007/CodeNotes/tree/master/0199-binary-tree-right-side-view) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/moali007/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/moali007/CodeNotes/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/moali007/CodeNotes/tree/master/0210-course-schedule-ii) |
@@ -513,6 +515,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/moali007/CodeNotes/tree/master/0199-binary-tree-right-side-view) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->

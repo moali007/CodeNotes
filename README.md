@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/moali007/CodeNotes/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/moali007/CodeNotes/tree/master/0680-valid-palindrome-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/moali007/CodeNotes/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/moali007/CodeNotes/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/moali007/CodeNotes/tree/master/0583-delete-operation-for-two-strings) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |

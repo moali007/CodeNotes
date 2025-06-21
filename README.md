@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0518-coin-change-ii](https://github.com/moali007/CodeNotes/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/moali007/CodeNotes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/moali007/CodeNotes/tree/master/0792-binary-search) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/moali007/CodeNotes/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0853-most-profit-assigning-work](https://github.com/moali007/CodeNotes/tree/master/0853-most-profit-assigning-work) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/moali007/CodeNotes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/moali007/CodeNotes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0416-partition-equal-subset-sum](https://github.com/moali007/CodeNotes/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/moali007/CodeNotes/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/moali007/CodeNotes/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |

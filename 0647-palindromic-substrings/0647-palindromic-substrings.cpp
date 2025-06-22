@@ -12,23 +12,6 @@ public:
         return count;
     }
 
-
-    bool isPallindrome(string str,int i,int j){
-        
-        while(i<=j){
-            if(str[i] != str[j]){
-               return false;
-            }
-            else{
-                i++;
-                j--;
-            }
-        }
-        return true;
-    }
-
-    
-
     int countSubstrings(string s) {
 
         int count=0;

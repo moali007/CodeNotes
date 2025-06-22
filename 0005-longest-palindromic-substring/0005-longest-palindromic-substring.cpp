@@ -7,7 +7,6 @@ public:
         int count=0;
         int maxl = 0;
         int start = -1;
-        int end = -1;
 
         for(int i=0;i<n;i++){
             //odd
@@ -17,7 +16,6 @@ public:
                 if(maxl < r - l + 1){
                     maxl = r - l + 1;
                     start = l;
-                    end = r;
                 }
                 l--;
                 r++;
@@ -30,7 +28,6 @@ public:
                 if(maxl < r - l + 1){
                     maxl = r - l + 1;
                     start = l;
-                    end = r;
                 }
                 l--;
                 r++;
@@ -38,6 +35,6 @@ public:
 
         }
 
-        return s.substr(start, end-start+1);
+        return s.substr(start, maxl);
     }
 };

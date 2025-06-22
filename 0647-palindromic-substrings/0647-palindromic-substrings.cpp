@@ -1,31 +1,50 @@
 class Solution {
 public:
-    
-    bool isPallindrome(string str, int i, int j){
-        // int i=0;
-        // int j=str.length()-1;
 
-        while(i < j){
-            if(str[i] != str[j]) return false;
+    int expandAroundIndex(string s,int i,int j){
+        int count=0;
+
+        while(i>=0 && j<s.length() && s[i]==s[j]){
+            count++;
+            i--;
+            j++;
+        }
+        return count;
+    }
+
+
+    bool isPallindrome(string str,int i,int j){
+        
+        while(i<=j){
+            if(str[i] != str[j]){
+               return false;
+            }
             else{
-                i++,j--;
+                i++;
+                j--;
             }
         }
-
         return true;
     }
 
-    int countSubstrings(string s) {
-        int n = s.length();
+    
 
-        int cnt = n;
-        for(int i = 0; i<n;i++){
-            for(int j=i+1;j<n;j++){
-                int len = j-i+1;
-                if(isPallindrome(s, i, i + len - 1)) cnt++;
-            }
+    int countSubstrings(string s) {
+
+        int count=0;
+        int n=s.length();
+
+        for(int i=0;i<n;i++){
+            //odd
+            int oddKaAns=expandAroundIndex(s,i,i);
+            count = count + oddKaAns;
+
+            //even
+            int evenKaAns=expandAroundIndex(s,i,i+1);
+            count = count + evenKaAns;
         }
 
-        return cnt;
+        return count;
+
     }
 };

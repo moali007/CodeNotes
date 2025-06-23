@@ -3,7 +3,7 @@ public:
     int n;
 
     int f(int i, vector<int>& nums, int prevIdx, vector<vector<int>> &dp){
-        if(i >= n){
+        if(i == n){
             return 0;
         }
 

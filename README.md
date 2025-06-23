@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moali007/CodeNotes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/moali007/CodeNotes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/moali007/CodeNotes/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/moali007/CodeNotes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/moali007/CodeNotes/tree/master/0162-find-peak-element) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moali007/CodeNotes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0115-distinct-subsequences](https://github.com/moali007/CodeNotes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/moali007/CodeNotes/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moali007/CodeNotes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/moali007/CodeNotes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/moali007/CodeNotes/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/moali007/CodeNotes/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/moali007/CodeNotes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -535,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/moali007/CodeNotes/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/moali007/CodeNotes/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
@@ -565,4 +570,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

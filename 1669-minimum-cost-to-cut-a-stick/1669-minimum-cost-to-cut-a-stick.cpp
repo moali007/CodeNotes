@@ -29,7 +29,7 @@ public:
         cuts.insert(cuts.begin(), 0);
         cuts.push_back(n);
 
-        vector<vector<int>> dp(cuts.size()+2, vector<int>(cuts.size()+2, -1));
+        vector<vector<int>> dp(cuts.size(), vector<int>(cuts.size(), -1));
 
         return solve(cuts, 0, cuts.size() - 1, dp);
     }

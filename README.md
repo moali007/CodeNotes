@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2122-count-special-quadruplets](https://github.com/moali007/CodeNotes/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/moali007/CodeNotes/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/moali007/CodeNotes/tree/master/1306-minimum-absolute-difference) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/moali007/CodeNotes/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/moali007/CodeNotes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
 ## Combinatorics
 |  |

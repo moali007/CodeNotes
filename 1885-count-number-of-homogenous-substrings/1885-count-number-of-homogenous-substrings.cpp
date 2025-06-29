@@ -1,26 +1,22 @@
 class Solution {
 public:
-    int mod = 1e9+7;
+    int mod = 1e9 + 7;
     int countHomogenous(string s) {
+        const int inv2 = 500000004;
+        s += '*';  // Add sentinel to flush last group
         int n = s.length();
-
-        int i=0,j=0;
-        int cnt = 0;
-        unordered_map<char, int> mp;
-
-        while(j < n){
-            mp[s[j]]++;
-
-            while(mp.size() > 1){
-                mp[s[i]]--;
-                if(mp[s[i]] == 0) mp.erase(s[i]);
-                i++;
+        int cnt = 1;
+        long long ans = 0;
+        for (int i = 1; i < n; i++) {
+            if (s[i] == s[i - 1]) {
+                cnt++;
+            } else {
+                long long temp = ((long long)cnt * (cnt + 1)) % mod;
+                temp = (temp * inv2) % mod;  // Division by 2 under modulo
+                ans = (ans + temp) % mod;
+                cnt = 1;
             }
-
-            cnt =  (cnt%mod + (j-i+1)%mod)%mod;
-            j++;
         }
-
-        return cnt%mod;
+        return ans % mod;
     }
 };

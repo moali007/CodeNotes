@@ -7,7 +7,7 @@ public:
 
         sort(nums.begin(), nums.end());
 
-        //pre-compute power
+        //pre-compute power i.e 2^0, 2^1, 2^2 ... 2^n-1
         vector<int> power(n);
         power[0] = 1; // 2^0
 

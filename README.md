@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/moali007/CodeNotes/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/moali007/CodeNotes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/moali007/CodeNotes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/moali007/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/moali007/CodeNotes/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/moali007/CodeNotes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/moali007/CodeNotes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/moali007/CodeNotes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
 |  |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/moali007/CodeNotes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/moali007/CodeNotes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |

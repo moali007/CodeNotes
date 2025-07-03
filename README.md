@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/moali007/CodeNotes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/moali007/CodeNotes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/moali007/CodeNotes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/moali007/CodeNotes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/moali007/CodeNotes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -675,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |

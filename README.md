@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0046-permutations](https://github.com/moali007/CodeNotes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/moali007/CodeNotes/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/moali007/CodeNotes/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/moali007/CodeNotes/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/moali007/CodeNotes/tree/master/0078-subsets) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/moali007/CodeNotes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0005-longest-palindromic-substring](https://github.com/moali007/CodeNotes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/moali007/CodeNotes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/moali007/CodeNotes/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/moali007/CodeNotes/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/moali007/CodeNotes/tree/master/0072-edit-distance) |

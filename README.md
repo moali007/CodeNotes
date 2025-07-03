@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0035-search-insert-position](https://github.com/moali007/CodeNotes/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/moali007/CodeNotes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/moali007/CodeNotes/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/moali007/CodeNotes/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/moali007/CodeNotes/tree/master/0078-subsets) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/moali007/CodeNotes/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |

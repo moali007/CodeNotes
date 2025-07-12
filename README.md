@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/moali007/CodeNotes/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/moali007/CodeNotes/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/moali007/CodeNotes/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/moali007/CodeNotes/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/moali007/CodeNotes/tree/master/0386-lexicographical-numbers) |
@@ -483,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/moali007/CodeNotes/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/moali007/CodeNotes/tree/master/0210-course-schedule-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -496,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |

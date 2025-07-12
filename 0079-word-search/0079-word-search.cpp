@@ -1,8 +1,10 @@
 class Solution {
 public:
     int m,n;
+    vector<int> delrow = {-1,0,1,0};
+    vector<int> delcol = {0,1,0,-1};
     // vector<vector<int>> dirs{{-1,0}, {0,1}, {1,0}, {0,-1}};
-    bool find(int row, int col, int idx, string &word, vector<vector<char>>& board, int delrow[], int delcol[]){
+    bool find(int row, int col, int idx, string &word, vector<vector<char>>& board){
         if(idx == word.length()){
             return true;
         }
@@ -21,7 +23,7 @@ public:
             int drow = row + delrow[i];
             int dcol = col + delcol[i];
 
-            if(find(drow, dcol, idx+1, word, board, delrow, delcol) == true){
+            if(find(drow, dcol, idx+1, word, board) == true){
                 return true;
             }
         }
@@ -37,13 +39,13 @@ public:
         m = board.size();
         n = board[0].size();
 
-        int delrow[] = {-1,0,1,0};
-        int delcol[] = {0,1,0,-1};
+        // int delrow[] = {-1,0,1,0};
+        // int delcol[] = {0,1,0,-1};
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
 
-                if(board[i][j] == word[0] && find(i, j, 0, word, board, delrow, delcol) == true){
+                if(board[i][j] == word[0] && find(i, j, 0, word, board) == true){
                     return true;
                 }
             }

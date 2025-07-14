@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/moali007/CodeNotes/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/moali007/CodeNotes/tree/master/0583-delete-operation-for-two-strings) |
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0071-simplify-path](https://github.com/moali007/CodeNotes/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/moali007/CodeNotes/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
@@ -704,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/moali007/CodeNotes/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |

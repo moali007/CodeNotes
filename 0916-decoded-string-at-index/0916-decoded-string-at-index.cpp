@@ -17,7 +17,10 @@ public:
             k = k % size;
 
             if(k == 0 && isalpha(s[i])){
-                return string(1, s[i]);
+                // return string(1, s[i]);
+                string res = "";
+                res += s[i];
+                return res;
             }
             else if(isdigit(s[i])){
                 size = size / (s[i] - '0');

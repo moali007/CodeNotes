@@ -23,15 +23,14 @@ public:
                     str = st.top() + str;
                     st.pop();
                 }
-                st.pop();
+                st.pop(); //removing "["
 
                 int freq = digit.top(); digit.pop();
-                string res = str;
-                while(freq > 1){
+                string res = "";
+                while(freq > 0){
                     res = res + str;
                     freq--;
                 }
-
                 st.push(res);
             }
         }

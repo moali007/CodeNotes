@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/moali007/CodeNotes/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/moali007/CodeNotes/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/moali007/CodeNotes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/moali007/CodeNotes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/moali007/CodeNotes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/moali007/CodeNotes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/moali007/CodeNotes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/moali007/CodeNotes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/moali007/CodeNotes/tree/master/3618-find-the-original-typed-string-ii) |
 ## Combinatorics
 |  |

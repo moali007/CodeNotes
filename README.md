@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/moali007/CodeNotes/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/moali007/CodeNotes/tree/master/1306-minimum-absolute-difference) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/moali007/CodeNotes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/moali007/CodeNotes/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/moali007/CodeNotes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/moali007/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/moali007/CodeNotes/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/moali007/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -665,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0386-lexicographical-numbers](https://github.com/moali007/CodeNotes/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/moali007/CodeNotes/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Monotonic Stack
 |  |
 | ------- |

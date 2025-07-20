@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<string> removeSubfolders(vector<string>& folder) {
         sort(folder.begin(), folder.end());
-
         vector<string> result;
         string prev = "";
 

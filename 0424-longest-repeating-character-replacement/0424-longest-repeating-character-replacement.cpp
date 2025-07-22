@@ -14,9 +14,6 @@ public:
 
             if((j-i+1) - maxfreq > k){
                 hash[s[i] - 'A']--;
-                for(int i = 0; i < 26; i++){
-                    maxfreq = max(maxfreq, hash[i]);
-                }
                 i++;
             }
 

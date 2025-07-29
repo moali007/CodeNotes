@@ -20,7 +20,7 @@ public:
         ListNode* dummy = new ListNode(-1);
         dummy->next = head;
 
-        ListNode* leftPart = dummy;
+        ListNode* leftPart = head;
         for(int i = 1; i < left; i++) {
             leftPart = leftPart->next;
         }
@@ -38,6 +38,6 @@ public:
         leftPart->next = reversedHead;
         l->next = rightPart;
 
-        return dummy->next;
+        return head;
     }
 };

@@ -13,6 +13,25 @@ public:
         return take + skip;
     }
 
+    vector<int> arr;
+    int cnt = 0;
+    void f(int i, vector<int>& nums, int &maxOR){
+        if(i == nums.size()){
+            int OR = 0;
+            for(int it : arr){
+                OR = OR | it;
+            }
+            if(OR == maxOR) cnt++;
+            return;
+        }
+
+        arr.push_back(nums[i]);
+        f(i+1, nums, maxOR);
+
+        arr.pop_back();
+        f(i+1, nums, maxOR);
+    }
+
     int countMaxOrSubsets(vector<int>& nums) {
         n = nums.size();
 
@@ -21,7 +40,9 @@ public:
             maxOR = maxOR | nums[i];
         }
 
-        int OR = 0;
-        return solve(0, nums, OR, maxOR);
+        // int OR = 0;
+        // return solve(0, nums, OR, maxOR);
+        f(0, nums, maxOR);
+        return cnt;
     }
 };

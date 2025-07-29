@@ -17,10 +17,10 @@ public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         if(head == NULL || head->next == NULL) return head;
 
-        ListNode dummy(0);
-        dummy.next = head;
+        ListNode* dummy = new ListNode(-1);
+        dummy->next = head;
 
-        ListNode* leftPart = &dummy;
+        ListNode* leftPart = dummy;
         for(int i = 1; i < left; i++) {
             leftPart = leftPart->next;
         }
@@ -38,6 +38,6 @@ public:
         leftPart->next = reversedHead;
         l->next = rightPart;
 
-        return dummy.next;
+        return dummy->next;
     }
 };

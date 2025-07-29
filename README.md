@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/moali007/CodeNotes/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/moali007/CodeNotes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/moali007/CodeNotes/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2548-destroy-sequential-targets](https://github.com/moali007/CodeNotes/tree/master/2548-destroy-sequential-targets) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/moali007/CodeNotes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/moali007/CodeNotes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/moali007/CodeNotes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/moali007/CodeNotes/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/moali007/CodeNotes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -653,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/moali007/CodeNotes/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/moali007/CodeNotes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/moali007/CodeNotes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/moali007/CodeNotes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |

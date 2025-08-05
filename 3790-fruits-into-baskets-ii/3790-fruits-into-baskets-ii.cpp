@@ -3,7 +3,7 @@ public:
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
         int n = fruits.size();
 
-        // int cnt = n;
+        int cnt = n;
 
         for(int i=0;i<n;i++){
             int fruit = fruits[i];
@@ -11,15 +11,10 @@ public:
             for(int j=0;j<n;j++){
                 if(baskets[j] >= fruit){
                     baskets[j] = -1;
-                    // cnt--;
+                    cnt--;
                     break;
                 }
             }
-        }
-
-        int cnt = 0;
-        for(auto it : baskets){
-            if(it != -1) cnt++;
         }
 
         return cnt;

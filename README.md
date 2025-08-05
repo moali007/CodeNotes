@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/moali007/CodeNotes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/moali007/CodeNotes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -718,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
+| [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -771,4 +775,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

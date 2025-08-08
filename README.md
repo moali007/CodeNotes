@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/moali007/CodeNotes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0003-longest-substring-without-repeating-characters](https://github.com/moali007/CodeNotes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moali007/CodeNotes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |

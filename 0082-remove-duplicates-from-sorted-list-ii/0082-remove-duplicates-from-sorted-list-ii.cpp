@@ -30,7 +30,6 @@ public:
                 prev = prev->next;
                 curr = curr->next;
             }
-            // curr = curr->next;
         }
 
         return dummy->next;

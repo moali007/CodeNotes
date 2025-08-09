@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/moali007/CodeNotes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0826-soup-servings](https://github.com/moali007/CodeNotes/tree/master/0826-soup-servings) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0190-reverse-bits](https://github.com/moali007/CodeNotes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/moali007/CodeNotes/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/moali007/CodeNotes/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/moali007/CodeNotes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/moali007/CodeNotes/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/moali007/CodeNotes/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/moali007/CodeNotes/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching

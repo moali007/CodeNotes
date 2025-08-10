@@ -15,8 +15,7 @@ public:
             if(i >= 0){
                 digits[i] += 1;
             }else{
-                digits.push_back(1);
-                reverse(digits.begin(), digits.end());
+                digits.insert(digits.begin(), 1);
             }
         }
 

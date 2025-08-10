@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0112-path-sum](https://github.com/moali007/CodeNotes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/moali007/CodeNotes/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/moali007/CodeNotes/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/moali007/CodeNotes/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/moali007/CodeNotes/tree/master/0386-lexicographical-numbers) |
+| [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0112-path-sum](https://github.com/moali007/CodeNotes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/moali007/CodeNotes/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |

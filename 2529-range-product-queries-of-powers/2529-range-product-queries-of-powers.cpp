@@ -10,7 +10,6 @@ public:
             }
         }
 
-        // int n = queries.size();
         vector<int> ans;
 
         for(auto it : queries){

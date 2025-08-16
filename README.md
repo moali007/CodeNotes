@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moali007/CodeNotes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/moali007/CodeNotes/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/moali007/CodeNotes/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/moali007/CodeNotes/tree/master/0066-plus-one) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moali007/CodeNotes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/moali007/CodeNotes/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/moali007/CodeNotes/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/moali007/CodeNotes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/moali007/CodeNotes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/moali007/CodeNotes/tree/master/0032-longest-valid-parentheses) |

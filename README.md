@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0342-power-of-four](https://github.com/moali007/CodeNotes/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0826-soup-servings](https://github.com/moali007/CodeNotes/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/moali007/CodeNotes/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/moali007/CodeNotes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/moali007/CodeNotes/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/moali007/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -719,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
@@ -853,4 +856,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/moali007/CodeNotes/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

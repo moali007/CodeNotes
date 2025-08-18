@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
+| [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/moali007/CodeNotes/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0326-power-of-three](https://github.com/moali007/CodeNotes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/moali007/CodeNotes/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
+| [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/moali007/CodeNotes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/moali007/CodeNotes/tree/master/0900-reordered-power-of-2) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
+| [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/moali007/CodeNotes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |

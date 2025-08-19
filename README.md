@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/moali007/CodeNotes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/moali007/CodeNotes/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/moali007/CodeNotes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/moali007/CodeNotes/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1885-count-number-of-homogenous-substrings](https://github.com/moali007/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/moali007/CodeNotes/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/moali007/CodeNotes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/moali007/CodeNotes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/moali007/CodeNotes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |

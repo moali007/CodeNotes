@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1305-number-of-visible-people-in-a-queue](https://github.com/moali007/CodeNotes/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/moali007/CodeNotes/tree/master/1306-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/moali007/CodeNotes/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Interactive
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/moali007/CodeNotes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/moali007/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |

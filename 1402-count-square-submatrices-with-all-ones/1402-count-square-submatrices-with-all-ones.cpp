@@ -1,19 +1,38 @@
 class Solution {
 public:
-    int countSquares(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        if (m == 0) return 0;
-        int n = matrix[0].size();
-        int res = 0;
+    int n, m;
+    
+    int solve(int i, int j, vector<vector<int>>& matrix, vector<vector<int>> &dp){
+        if(i >= n || j >= m){
+            return 0;
+        }
+        if(matrix[i][j] == 0){
+            return 0;
+        }
+        if(dp[i][j] != -1) return dp[i][j];
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 1 && i > 0 && j > 0) {
-                    matrix[i][j] = min({matrix[i-1][j], matrix[i][j-1], matrix[i-1][j-1]}) + 1;
+        int right = solve(i, j+1, matrix, dp);
+        int diag = solve(i+1, j+1, matrix, dp);
+        int below = solve(i+1, j, matrix, dp);
+
+        return dp[i][j] = 1 + min({right, diag, below});
+    }
+
+    int countSquares(vector<vector<int>>& matrix) {
+        n = matrix.size();
+        m = matrix[0].size();
+
+        int result = 0;
+        vector<vector<int>> dp(n+1, vector<int>(m+1, -1));
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(matrix[i][j] == 1){
+                    result += solve(i, j, matrix, dp);
                 }
-                res += matrix[i][j];
             }
         }
-        return res;
+
+        return result;
     }
 };

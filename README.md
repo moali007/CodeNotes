@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3415-check-if-grid-satisfies-conditions](https://github.com/moali007/CodeNotes/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/moali007/CodeNotes/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/moali007/CodeNotes/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/moali007/CodeNotes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/moali007/CodeNotes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/moali007/CodeNotes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/moali007/CodeNotes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/moali007/CodeNotes/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/moali007/CodeNotes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Interactive
 |  |
 | ------- |

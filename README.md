@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/moali007/CodeNotes/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/moali007/CodeNotes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/moali007/CodeNotes/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/moali007/CodeNotes/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |

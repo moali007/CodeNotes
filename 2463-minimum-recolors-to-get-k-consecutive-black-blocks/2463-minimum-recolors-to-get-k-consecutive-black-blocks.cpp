@@ -3,32 +3,24 @@ public:
     int minimumRecolors(string blocks, int k) {
         int n = blocks.size();
 
-        int i=0, j = k-1;
+        int i=0, j = 0;
         int white = 0;
         int mini = INT_MAX;
-        for(int it = i; it <= j; it++){
-            if(blocks[it] == 'W'){
+        
+        while(j < n){
+            if(blocks[j] == 'W'){
                 white++;
             }
-        }
 
-        mini = min(mini, white);
-        i++;
-        j++;
+            if(j - i + 1 == k){
+                mini = min(mini, white);
 
-        while(j < n){
-            white = 0;
-
-            for(int it = i; it <= j; it++){
-                if(blocks[it] == 'W'){
-                    white++;
+                if(blocks[i] == 'W'){
+                    white--;
                 }
+                i++;
             }
 
-
-            mini = min(mini, white);
-
-            i++;
             j++;
         }
 

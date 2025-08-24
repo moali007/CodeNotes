@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/moali007/CodeNotes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/moali007/CodeNotes/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/moali007/CodeNotes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/moali007/CodeNotes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/moali007/CodeNotes/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/moali007/CodeNotes/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -748,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/moali007/CodeNotes/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/moali007/CodeNotes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/moali007/CodeNotes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/moali007/CodeNotes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |

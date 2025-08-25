@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0485-max-consecutive-ones](https://github.com/moali007/CodeNotes/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/moali007/CodeNotes/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/moali007/CodeNotes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |

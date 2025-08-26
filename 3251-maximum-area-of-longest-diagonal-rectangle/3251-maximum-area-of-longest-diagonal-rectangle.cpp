@@ -3,24 +3,24 @@ public:
     int areaOfMaxDiagonal(vector<vector<int>>& d) {
         int n = d.size();
 
-        vector<pair<double, int>> arr;
+        double maxDiagonal = 0;
+        int maxArea = 0;
 
-        for(auto it : d){
-            int l = it[0];
-            int b = it[1];
+        for(int i = 0; i < n; i++){
+            int l = d[i][0];
+            int b = d[i][1];
 
             double diag = sqrt(l*l + b*b);
-            int area = l * b;
+            int area = l*b;
 
-            arr.push_back({diag, area});
-        }
-        
-        sort(arr.rbegin(), arr.rend());
-
-        for(int i = 0; i<arr.size();i++){
-            cout<<arr[i].first<<" "<<arr[i].second<<endl;
+            if((diag > maxDiagonal) || (diag == maxDiagonal and area>maxArea)){
+                maxDiagonal = diag;
+                maxArea = area;
+            }
         }
 
-        return arr[0].second;
+        return maxArea;
+
+
     }
 };

@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
 | [3194-find-words-containing-character](https://github.com/moali007/CodeNotes/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/moali007/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/moali007/CodeNotes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/moali007/CodeNotes/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/moali007/CodeNotes/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/moali007/CodeNotes/tree/master/3421-count-pairs-that-form-a-complete-day-i) |

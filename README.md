@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/moali007/CodeNotes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/moali007/CodeNotes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3415-check-if-grid-satisfies-conditions](https://github.com/moali007/CodeNotes/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/moali007/CodeNotes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/moali007/CodeNotes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Interactive
 |  |
 | ------- |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/moali007/CodeNotes/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/moali007/CodeNotes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/moali007/CodeNotes/tree/master/3618-find-the-original-typed-string-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Combinatorics
 |  |
 | ------- |
@@ -839,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/moali007/CodeNotes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
 |  |
 | ------- |

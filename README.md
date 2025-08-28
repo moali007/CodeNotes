@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/moali007/CodeNotes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/moali007/CodeNotes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/moali007/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/moali007/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/moali007/CodeNotes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3748-sort-matrix-by-diagonals](https://github.com/moali007/CodeNotes/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/moali007/CodeNotes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/moali007/CodeNotes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/moali007/CodeNotes/tree/master/3748-sort-matrix-by-diagonals) |
 ## Interactive
 |  |
 | ------- |

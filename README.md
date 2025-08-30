@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/moali007/CodeNotes/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moali007/CodeNotes/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/moali007/CodeNotes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moali007/CodeNotes/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2548-destroy-sequential-targets](https://github.com/moali007/CodeNotes/tree/master/2548-destroy-sequential-targets) |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moali007/CodeNotes/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/moali007/CodeNotes/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/moali007/CodeNotes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/moali007/CodeNotes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |

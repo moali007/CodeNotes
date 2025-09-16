@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0018-4sum](https://github.com/moali007/CodeNotes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moali007/CodeNotes/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/moali007/CodeNotes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/moali007/CodeNotes/tree/master/0035-search-insert-position) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0018-4sum](https://github.com/moali007/CodeNotes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moali007/CodeNotes/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/moali007/CodeNotes/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/moali007/CodeNotes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/moali007/CodeNotes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/moali007/CodeNotes/tree/master/0125-valid-palindrome) |

@@ -1,64 +1,54 @@
 class Solution {
 public:
-    int n;
+    
+    int maxConsecutiveTrue(string str, int k){
+        int n = str.length();
 
-    int maxTrueWithKfalse(string &s, int k){
-        int i=0,j=0;
         int falseCnt = 0;
-        int maxlen = 0;
+        int maxi = 0;
+        int i = 0, j = 0;
 
         while(j < n){
-            if(s[j] == 'F'){
-                falseCnt++;
-            }
+            if(str[j] == 'F') falseCnt++;
 
             while(falseCnt > k){
-                if(s[i] == 'F'){
-                    falseCnt--;
-                }
+                if(str[i] == 'F') falseCnt--;
                 i++;
             }
 
-            maxlen = max(maxlen, j-i+1);
-
+            maxi = max(maxi, j - i + 1);
             j++;
         }
 
-        return maxlen;
+        return maxi;
     }
 
-    int maxFalseWithKtrue(string &s, int k){
-        int i=0,j=0;
+    int maxConsecutiveFalse(string str, int k){
+        int n = str.length();
+
         int trueCnt = 0;
-        int maxlen = 0;
+        int maxi = 0;
+        int i = 0, j = 0;
 
         while(j < n){
-            if(s[j] == 'T'){
-                trueCnt++;
-            }
+            if(str[j] == 'T') trueCnt++;
 
             while(trueCnt > k){
-                if(s[i] == 'T'){
-                    trueCnt--;
-                }
+                if(str[i] == 'T') trueCnt--;
                 i++;
             }
 
-            maxlen = max(maxlen, j-i+1);
-
+            maxi = max(maxi, j - i + 1);
             j++;
         }
 
-        return maxlen;
+        return maxi;
     }
-    
+
     int maxConsecutiveAnswers(string answerKey, int k) {
-        n = answerKey.length();
-        
-        int maxConsequetiveTrue = maxTrueWithKfalse(answerKey, k);
-        int maxConsequetiveFalse = maxFalseWithKtrue(answerKey, k);
+        int ans1 = maxConsecutiveTrue(answerKey, k);
+        int ans2 = maxConsecutiveFalse(answerKey, k);
 
-
-        return max(maxConsequetiveTrue, maxConsequetiveFalse);
+        return max(ans1, ans2);
     }
 };

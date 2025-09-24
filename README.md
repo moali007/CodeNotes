@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0013-roman-to-integer](https://github.com/moali007/CodeNotes/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/moali007/CodeNotes/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/moali007/CodeNotes/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/moali007/CodeNotes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/moali007/CodeNotes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0125-valid-palindrome](https://github.com/moali007/CodeNotes/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/moali007/CodeNotes/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |

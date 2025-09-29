@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moali007/CodeNotes/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/moali007/CodeNotes/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/moali007/CodeNotes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2294-minimum-time-to-complete-trips](https://github.com/moali007/CodeNotes/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/moali007/CodeNotes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/moali007/CodeNotes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/moali007/CodeNotes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2294-minimum-time-to-complete-trips](https://github.com/moali007/CodeNotes/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/moali007/CodeNotes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |

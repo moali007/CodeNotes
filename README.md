@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/moali007/CodeNotes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1813-maximum-erasure-value](https://github.com/moali007/CodeNotes/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/moali007/CodeNotes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/moali007/CodeNotes/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/moali007/CodeNotes/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/moali007/CodeNotes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/moali007/CodeNotes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/moali007/CodeNotes/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |

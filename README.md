@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/moali007/CodeNotes/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/moali007/CodeNotes/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/moali007/CodeNotes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/moali007/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/moali007/CodeNotes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2548-destroy-sequential-targets](https://github.com/moali007/CodeNotes/tree/master/2548-destroy-sequential-targets) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/moali007/CodeNotes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/moali007/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/moali007/CodeNotes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/moali007/CodeNotes/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/moali007/CodeNotes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/moali007/CodeNotes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/moali007/CodeNotes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/moali007/CodeNotes/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/moali007/CodeNotes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/moali007/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/moali007/CodeNotes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/moali007/CodeNotes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |

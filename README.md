@@ -637,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/moali007/CodeNotes/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/moali007/CodeNotes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/moali007/CodeNotes/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/moali007/CodeNotes/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/moali007/CodeNotes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/moali007/CodeNotes/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -919,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/moali007/CodeNotes/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/moali007/CodeNotes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/moali007/CodeNotes/tree/master/0129-sum-root-to-leaf-numbers) |

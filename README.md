@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/moali007/CodeNotes/tree/master/0768-partition-labels) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/moali007/CodeNotes/tree/master/0900-reordered-power-of-2) |
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/moali007/CodeNotes/tree/master/1006-vowel-spellchecker) |
@@ -646,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/moali007/CodeNotes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/moali007/CodeNotes/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -673,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/moali007/CodeNotes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/moali007/CodeNotes/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -933,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/moali007/CodeNotes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree

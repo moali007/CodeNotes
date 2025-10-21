@@ -636,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/moali007/CodeNotes/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0110-balanced-binary-tree) |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/moali007/CodeNotes/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0110-balanced-binary-tree) |
@@ -871,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0020-valid-parentheses](https://github.com/moali007/CodeNotes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/moali007/CodeNotes/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/moali007/CodeNotes/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/moali007/CodeNotes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
@@ -926,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/moali007/CodeNotes/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0110-balanced-binary-tree) |

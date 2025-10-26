@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2144-maximum-difference-between-increasing-elements](https://github.com/moali007/CodeNotes/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/moali007/CodeNotes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
+| [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/moali007/CodeNotes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/moali007/CodeNotes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/moali007/CodeNotes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/moali007/CodeNotes/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2122-count-special-quadruplets](https://github.com/moali007/CodeNotes/tree/master/2122-count-special-quadruplets) |
+| [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/moali007/CodeNotes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/moali007/CodeNotes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/moali007/CodeNotes/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/moali007/CodeNotes/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/moali007/CodeNotes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/moali007/CodeNotes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -997,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/moali007/CodeNotes/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/moali007/CodeNotes/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/moali007/CodeNotes/tree/master/3797-design-spreadsheet) |
 ## Segment Tree

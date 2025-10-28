@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/moali007/CodeNotes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/moali007/CodeNotes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/moali007/CodeNotes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/moali007/CodeNotes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2529-range-product-queries-of-powers](https://github.com/moali007/CodeNotes/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/moali007/CodeNotes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/moali007/CodeNotes/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/moali007/CodeNotes/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/moali007/CodeNotes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting Sort
 |  |

@@ -4,7 +4,8 @@ public:
         int n = nums.size();
 
         vector<int> ans;
-        vector<int> vis(n, 0);
+        vector<int> vis(n, 0); // zeros i wajah se visited vector leni padi, coz 0 ko
+        //vis karte to -0 hota jo not possible hai
         for(int i=0;i<n;i++){
             int num = nums[i];
             int idx = num;

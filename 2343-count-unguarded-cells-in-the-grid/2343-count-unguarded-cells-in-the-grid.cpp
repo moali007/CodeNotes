@@ -1,23 +1,37 @@
 class Solution {
 public:
     void mark(int r, int c, vector<vector<char>> &grid, int m, int n) {
-        // up
-        for (int i = r - 1; i >= 0 && grid[i][c] != 'W' && grid[i][c] != 'G'; i--) {
-            grid[i][c] = '0';
+        int rr, cc;
+
+        // Up
+        rr = r - 1;
+        while (rr >= 0 && grid[rr][c] != 'W' && grid[rr][c] != 'G') {
+            grid[rr][c] = '0';
+            rr--;
         }
-        // down
-        for (int i = r + 1; i < m && grid[i][c] != 'W' && grid[i][c] != 'G'; i++) {
-            grid[i][c] = '0';
+
+        // Down
+        rr = r + 1;
+        while (rr < m && grid[rr][c] != 'W' && grid[rr][c] != 'G') {
+            grid[rr][c] = '0';
+            rr++;
         }
-        // left
-        for (int j = c - 1; j >= 0 && grid[r][j] != 'W' && grid[r][j] != 'G'; j--) {
-            grid[r][j] = '0';
+
+        // Left
+        cc = c - 1;
+        while (cc >= 0 && grid[r][cc] != 'W' && grid[r][cc] != 'G') {
+            grid[r][cc] = '0';
+            cc--;
         }
-        // right
-        for (int j = c + 1; j < n && grid[r][j] != 'W' && grid[r][j] != 'G'; j++) {
-            grid[r][j] = '0';
+
+        // Right
+        cc = c + 1;
+        while (cc < n && grid[r][cc] != 'W' && grid[r][cc] != 'G') {
+            grid[r][cc] = '0';
+            cc++;
         }
     }
+
 
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
         vector<vector<char>> grid(m, vector<char>(n, '1'));

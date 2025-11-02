@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/moali007/CodeNotes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/moali007/CodeNotes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/moali007/CodeNotes/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/moali007/CodeNotes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/moali007/CodeNotes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/moali007/CodeNotes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/moali007/CodeNotes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/moali007/CodeNotes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/moali007/CodeNotes/tree/master/3336-water-bottles-ii) |
@@ -624,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moali007/CodeNotes/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/moali007/CodeNotes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/moali007/CodeNotes/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/moali007/CodeNotes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/moali007/CodeNotes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |

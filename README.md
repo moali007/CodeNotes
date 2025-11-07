@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/moali007/CodeNotes/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/moali007/CodeNotes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/moali007/CodeNotes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/moali007/CodeNotes/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/moali007/CodeNotes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/moali007/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/moali007/CodeNotes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -725,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/moali007/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/moali007/CodeNotes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -732,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -741,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/moali007/CodeNotes/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -923,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/moali007/CodeNotes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/moali007/CodeNotes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/moali007/CodeNotes/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -946,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [3678-design-task-manager](https://github.com/moali007/CodeNotes/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 ## Quickselect
 |  |
 | ------- |

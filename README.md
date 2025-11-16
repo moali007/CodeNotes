@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/moali007/CodeNotes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/moali007/CodeNotes/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/moali007/CodeNotes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/moali007/CodeNotes/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/moali007/CodeNotes/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/moali007/CodeNotes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/moali007/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/moali007/CodeNotes/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/moali007/CodeNotes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/moali007/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/moali007/CodeNotes/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/moali007/CodeNotes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/moali007/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/moali007/CodeNotes/tree/master/1967-longest-substring-of-all-vowels-in-order) |

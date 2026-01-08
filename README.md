@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0932-monotonic-array](https://github.com/moali007/CodeNotes/tree/master/0932-monotonic-array) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/moali007/CodeNotes/tree/master/1006-vowel-spellchecker) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1041-available-captures-for-rook](https://github.com/moali007/CodeNotes/tree/master/1041-available-captures-for-rook) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/moali007/CodeNotes/tree/master/0853-most-profit-assigning-work) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
+| [1004-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/moali007/CodeNotes/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -900,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/moali007/CodeNotes/tree/master/1460-number-of-substrings-containing-all-three-characters) |

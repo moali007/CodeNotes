@@ -1,10 +1,9 @@
 class Solution {
 public:
-    
     vector<int> generateRow(int n){
         int ans = 1;
         vector<int> row;
-        row.push_back(ans);
+        row.push_back(1);
 
         for(int i = 1; i < n; i++){
             ans = ans * (n - i);

@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0342-power-of-four](https://github.com/moali007/CodeNotes/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/moali007/CodeNotes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/moali007/CodeNotes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/moali007/CodeNotes/tree/master/0900-reordered-power-of-2) |
@@ -812,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/moali007/CodeNotes/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/moali007/CodeNotes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/moali007/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |

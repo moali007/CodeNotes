@@ -3,16 +3,16 @@ public:
     int characterReplacement(string s, int k) {
         int n = s.length();
 
-        vector<int> freq(26, 0);
         int i = 0, j = 0;
+        vector<int> hash(26, 0);
         int maxfreq = 0, maxlen = 0;
 
         while(j < n){
-            freq[s[j] - 'A']++;
-            maxfreq = max(maxfreq, freq[s[j] - 'A']);
+            hash[s[j] - 'A']++;
+            maxfreq = max(maxfreq, hash[s[j] - 'A']);
 
             while((j-i+1 - maxfreq) > k){
-                freq[s[i] - 'A']--;
+                hash[s[i] - 'A']--;
                 i++;
             }
 

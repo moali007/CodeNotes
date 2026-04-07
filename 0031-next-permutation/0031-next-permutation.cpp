@@ -3,27 +3,26 @@ public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
 
-        int dipIdx = -1;
+        int idx = -1;
 
         for(int i = n-1; i >= 0; i--){
-            if(i-1 >= 0 and nums[i-1] < nums[i]){
-                dipIdx = i-1;
+            if(i > 0 and nums[i-1] < nums[i]){
+                idx = i-1;
                 break;
             }
         }
 
-        if(dipIdx == -1){
+        if(idx == -1){
             reverse(nums.begin(), nums.end());
-        }
-        else{
-            for(int i = n-1; i >= 0; i--){
-                if(nums[i] > nums[dipIdx]){
-                    swap(nums[i], nums[dipIdx]);
+        }else{
+            for(int i = n-1; i >= idx; i--){
+                if(nums[i] > nums[idx]){
+                    swap(nums[idx], nums[i]);
                     break;
                 }
             }
 
-            reverse(nums.begin() + dipIdx + 1, nums.end());
+            reverse(nums.begin()+idx+1, nums.end());
         }
     }
 };

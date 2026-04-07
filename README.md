@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0118-pascals-triangle](https://github.com/moali007/CodeNotes/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moali007/CodeNotes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/moali007/CodeNotes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/moali007/CodeNotes/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/moali007/CodeNotes/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0003-longest-substring-without-repeating-characters](https://github.com/moali007/CodeNotes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/moali007/CodeNotes/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/moali007/CodeNotes/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
@@ -1105,4 +1107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/moali007/CodeNotes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/moali007/CodeNotes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

@@ -1,6 +1,6 @@
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
+    int MOD = 1e9 + 7;
     int xorAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
         int n = nums.size();
 

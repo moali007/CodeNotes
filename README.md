@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0036-valid-sudoku](https://github.com/moali007/CodeNotes/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/moali007/CodeNotes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/moali007/CodeNotes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/moali007/CodeNotes/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/moali007/CodeNotes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/moali007/CodeNotes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/moali007/CodeNotes/tree/master/0283-move-zeroes) |
@@ -1051,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0092-reverse-linked-list-ii](https://github.com/moali007/CodeNotes/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/moali007/CodeNotes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/moali007/CodeNotes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/moali007/CodeNotes/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/moali007/CodeNotes/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/moali007/CodeNotes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |

@@ -15,18 +15,13 @@ public:
         ListNode* second = headB;
 
         while(first != second){
-            // first=first->next;
-            // second=second->next;
+            first=first->next;
+            second=second->next;
 
-            // if(first == second) return first;//this is just for first time
+            if(first == second) return first;//this is just for first time
 
-            // if(first == NULL) first = headB;
-            // if(second == NULL) second = headA;
-                if(first == NULL) first = headB;
-                else first = first->next;
-
-                if(second == NULL) second = headA;
-                else second = second->next;
+            if(first == NULL) first = headB;
+            if(second == NULL) second = headA;
         }
         return first;
     }

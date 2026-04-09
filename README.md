@@ -1059,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/moali007/CodeNotes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/moali007/CodeNotes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/moali007/CodeNotes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/moali007/CodeNotes/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/moali007/CodeNotes/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/moali007/CodeNotes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1070,6 +1071,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0024-swap-nodes-in-pairs](https://github.com/moali007/CodeNotes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/moali007/CodeNotes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/moali007/CodeNotes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/moali007/CodeNotes/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/moali007/CodeNotes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/moali007/CodeNotes/tree/master/0326-power-of-three) |

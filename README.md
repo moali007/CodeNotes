@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0015-3sum](https://github.com/moali007/CodeNotes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/moali007/CodeNotes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moali007/CodeNotes/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/moali007/CodeNotes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moali007/CodeNotes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/moali007/CodeNotes/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/moali007/CodeNotes/tree/master/0031-next-permutation) |
@@ -1043,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/moali007/CodeNotes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/moali007/CodeNotes/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/moali007/CodeNotes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/moali007/CodeNotes/tree/master/0083-remove-duplicates-from-sorted-list) |

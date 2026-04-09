@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/moali007/CodeNotes/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/moali007/CodeNotes/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
@@ -1046,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/moali007/CodeNotes/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/moali007/CodeNotes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/moali007/CodeNotes/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/moali007/CodeNotes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -1061,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/moali007/CodeNotes/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/moali007/CodeNotes/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/moali007/CodeNotes/tree/master/0206-reverse-linked-list) |

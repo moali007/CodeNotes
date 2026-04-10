@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0036-valid-sudoku](https://github.com/moali007/CodeNotes/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/moali007/CodeNotes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/moali007/CodeNotes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
@@ -1058,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0092-reverse-linked-list-ii](https://github.com/moali007/CodeNotes/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/moali007/CodeNotes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/moali007/CodeNotes/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/moali007/CodeNotes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/moali007/CodeNotes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/moali007/CodeNotes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/moali007/CodeNotes/tree/master/0206-reverse-linked-list) |
@@ -1089,6 +1091,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/moali007/CodeNotes/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/moali007/CodeNotes/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/moali007/CodeNotes/tree/master/3678-design-task-manager) |
@@ -1130,4 +1133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/moali007/CodeNotes/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

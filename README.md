@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/moali007/CodeNotes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
@@ -810,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |

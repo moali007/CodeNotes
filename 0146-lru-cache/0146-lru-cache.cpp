@@ -42,7 +42,7 @@ public:
         }
 
         if(n < 0){
-            //remove LRU - back of dll
+            //remove LRU - back of dll has least recently used 
             int key_to_be_del = dll.back();
             mp.erase(key_to_be_del);
             dll.pop_back();

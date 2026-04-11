@@ -1,41 +1,42 @@
 class Solution {
 public:
+    vector<vector<string>> ans;
     int n;
 
-    bool isPallindrome(string &s, int l, int r){
-        while(l < r){
-            if(s[l] != s[r]) return false;
-            else{
-                l++,r--;
+    bool isPalindrome(string &s, int i, int j){
+        while(i < j){
+            if(s[i] != s[j]){
+                return false;
+            }else{
+                i++, j--;
             }
         }
         return true;
     }
 
-    void f(int idx, string &s, vector<string> &curr, vector<vector<string>> &result){
+    void solve(string &s, int idx, vector<string> &curr){
         if(idx == n){
-            result.push_back(curr);
+            ans.push_back(curr);
             return;
         }
 
-        for(int i=idx;i<n;i++){
-            if(isPallindrome(s, idx, i)){
-                curr.push_back(s.substr(idx, i-idx+1));
+        for(int i = idx; i < n; i++){
+            if(isPalindrome(s, idx, i)){
+                curr.push_back(s.substr(idx, i - idx + 1));
 
-                f(i+1, s, curr, result);
+                solve(s, i+1, curr);
 
                 curr.pop_back();
             }
         }
-    } 
-    
+    }
+
     vector<vector<string>> partition(string s) {
         n = s.length();
-        vector<vector<string>> result;
+
         vector<string> curr;
+        solve(s, 0, curr);
 
-        f(0, s, curr, result);
-
-        return result;
+        return ans;
     }
 };

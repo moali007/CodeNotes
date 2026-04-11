@@ -1,23 +1,26 @@
 class Solution {
 public:
     int n;
-    int f(int i, vector<int>& nums, vector<int> &dp){
+    
+    int solve(int i, vector<int>& nums, vector<int> &dp){
         if(i >= n){
             return 0;
         }
-        
-        if(dp[i] != -1) return dp[i];
 
-        int steal = nums[i] + f(i+2, nums, dp);
+        if(dp[i] != -1){
+            return dp[i];
+        }
 
-        int skip = f(i+1, nums, dp);
+        int take = nums[i] + solve(i+2, nums, dp);
+        int notTake = 0 + solve(i+1, nums, dp);
 
-        return dp[i] = max(steal, skip);
+        return dp[i] = max(take, notTake);
     }
 
     int rob(vector<int>& nums) {
         n = nums.size();
+        
         vector<int> dp(n, -1);
-        return f(0, nums, dp);
+        return solve(0, nums, dp);
     }
 };

@@ -571,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1030-smallest-string-starting-from-leaf](https://github.com/moali007/CodeNotes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/moali007/CodeNotes/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1143-longest-common-subsequence](https://github.com/moali007/CodeNotes/tree/master/1143-longest-common-subsequence) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/moali007/CodeNotes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/moali007/CodeNotes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
@@ -887,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/moali007/CodeNotes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
+| [1143-longest-common-subsequence](https://github.com/moali007/CodeNotes/tree/master/1143-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/moali007/CodeNotes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |

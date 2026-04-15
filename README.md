@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/moali007/CodeNotes/tree/master/1006-vowel-spellchecker) |
+| [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1041-available-captures-for-rook](https://github.com/moali007/CodeNotes/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0695-max-area-of-island](https://github.com/moali007/CodeNotes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/moali007/CodeNotes/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
+| [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1041-available-captures-for-rook](https://github.com/moali007/CodeNotes/tree/master/1041-available-captures-for-rook) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -772,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0733-flood-fill](https://github.com/moali007/CodeNotes/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/moali007/CodeNotes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/1382-balance-a-binary-search-tree) |
@@ -801,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
+| [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/moali007/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1175,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/moali007/CodeNotes/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/moali007/CodeNotes/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
 ## Doubly-Linked List
 |  |
 | ------- |

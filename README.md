@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0605-can-place-flowers](https://github.com/moali007/CodeNotes/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
+| [0695-max-area-of-island](https://github.com/moali007/CodeNotes/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/moali007/CodeNotes/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/moali007/CodeNotes/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0417-pacific-atlantic-water-flow](https://github.com/moali007/CodeNotes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/moali007/CodeNotes/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/moali007/CodeNotes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/moali007/CodeNotes/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
@@ -763,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/moali007/CodeNotes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/moali007/CodeNotes/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -789,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0463-island-perimeter](https://github.com/moali007/CodeNotes/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/moali007/CodeNotes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/moali007/CodeNotes/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/moali007/CodeNotes/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1165,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/moali007/CodeNotes/tree/master/0695-max-area-of-island) |
 ## Doubly-Linked List
 |  |
 | ------- |

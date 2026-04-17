@@ -1195,4 +1195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/moali007/CodeNotes/tree/master/0146-lru-cache) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

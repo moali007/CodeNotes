@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/moali007/CodeNotes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/moali007/CodeNotes/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/moali007/CodeNotes/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/moali007/CodeNotes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/moali007/CodeNotes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/moali007/CodeNotes/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0191-number-of-1-bits](https://github.com/moali007/CodeNotes/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/moali007/CodeNotes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
@@ -380,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
@@ -425,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/moali007/CodeNotes/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
@@ -1042,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/moali007/CodeNotes/tree/master/0658-find-k-closest-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/moali007/CodeNotes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1080,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1214,5 +1221,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

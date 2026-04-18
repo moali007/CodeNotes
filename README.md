@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/moali007/CodeNotes/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
+| [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/moali007/CodeNotes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/moali007/CodeNotes/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/moali007/CodeNotes/tree/master/0900-reordered-power-of-2) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -581,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0394-decode-string](https://github.com/moali007/CodeNotes/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/moali007/CodeNotes/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/moali007/CodeNotes/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/moali007/CodeNotes/tree/master/0583-delete-operation-for-two-strings) |
@@ -1036,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/moali007/CodeNotes/tree/master/0658-find-k-closest-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/moali007/CodeNotes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/moali007/CodeNotes/tree/master/1917-maximum-average-pass-ratio) |
@@ -1203,4 +1208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

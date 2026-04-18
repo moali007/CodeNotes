@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/moali007/CodeNotes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/moali007/CodeNotes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/moali007/CodeNotes/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/moali007/CodeNotes/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |

@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0322-coin-change](https://github.com/moali007/CodeNotes/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/moali007/CodeNotes/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/moali007/CodeNotes/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/moali007/CodeNotes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/moali007/CodeNotes/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |

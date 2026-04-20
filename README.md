@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/moali007/CodeNotes/tree/master/1048-longest-string-chain) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1162-as-far-from-land-as-possible](https://github.com/moali007/CodeNotes/tree/master/1162-as-far-from-land-as-possible) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/moali007/CodeNotes/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -728,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
 | [1022-unique-paths-iii](https://github.com/moali007/CodeNotes/tree/master/1022-unique-paths-iii) |
 | [1041-available-captures-for-rook](https://github.com/moali007/CodeNotes/tree/master/1041-available-captures-for-rook) |
+| [1162-as-far-from-land-as-possible](https://github.com/moali007/CodeNotes/tree/master/1162-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moali007/CodeNotes/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -835,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/moali007/CodeNotes/tree/master/0945-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/moali007/CodeNotes/tree/master/1162-as-far-from-land-as-possible) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/moali007/CodeNotes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -950,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0867-new-21-game](https://github.com/moali007/CodeNotes/tree/master/0867-new-21-game) |
 | [1048-longest-string-chain](https://github.com/moali007/CodeNotes/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/moali007/CodeNotes/tree/master/1143-longest-common-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/moali007/CodeNotes/tree/master/1162-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/moali007/CodeNotes/tree/master/1418-fair-distribution-of-cookies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/moali007/CodeNotes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |

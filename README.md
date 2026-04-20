@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2478-longest-nice-subarray](https://github.com/moali007/CodeNotes/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/moali007/CodeNotes/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/moali007/CodeNotes/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2512-reward-top-k-students](https://github.com/moali007/CodeNotes/tree/master/2512-reward-top-k-students) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/moali007/CodeNotes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/moali007/CodeNotes/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2240-intervals-between-identical-elements](https://github.com/moali007/CodeNotes/tree/master/2240-intervals-between-identical-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moali007/CodeNotes/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2512-reward-top-k-students](https://github.com/moali007/CodeNotes/tree/master/2512-reward-top-k-students) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2548-destroy-sequential-targets](https://github.com/moali007/CodeNotes/tree/master/2548-destroy-sequential-targets) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/moali007/CodeNotes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/moali007/CodeNotes/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2512-reward-top-k-students](https://github.com/moali007/CodeNotes/tree/master/2512-reward-top-k-students) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/moali007/CodeNotes/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2689-rearranging-fruits](https://github.com/moali007/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/moali007/CodeNotes/tree/master/2887-sort-vowels-in-a-string) |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/moali007/CodeNotes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/moali007/CodeNotes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/moali007/CodeNotes/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2512-reward-top-k-students](https://github.com/moali007/CodeNotes/tree/master/2512-reward-top-k-students) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/moali007/CodeNotes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/moali007/CodeNotes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/moali007/CodeNotes/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -1065,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1962-remove-stones-to-minimize-the-total](https://github.com/moali007/CodeNotes/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/moali007/CodeNotes/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/moali007/CodeNotes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2512-reward-top-k-students](https://github.com/moali007/CodeNotes/tree/master/2512-reward-top-k-students) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/moali007/CodeNotes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/moali007/CodeNotes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/moali007/CodeNotes/tree/master/3678-design-task-manager) |

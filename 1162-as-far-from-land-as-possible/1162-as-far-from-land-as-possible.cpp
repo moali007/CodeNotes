@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Multi-source BFS from LAND (1)
     int maxDistance(vector<vector<int>>& grid) {
         int n = grid.size();
         queue<pair<int,int>> q;

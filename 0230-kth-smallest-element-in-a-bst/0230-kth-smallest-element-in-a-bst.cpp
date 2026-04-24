@@ -11,26 +11,26 @@
  */
 class Solution {
 public:
-    int kthSmallest(TreeNode* root, int &k) {
-        if(root==NULL){
-        return -1;
-        }
+    priority_queue<int> pq;
 
-        //inorder
-        //L
-        int leftAns=kthSmallest(root->left,k);
-        if(leftAns != -1){
-            return leftAns;
-        }
+    void inorder(TreeNode* root, int k){
+        if(root == NULL) return;
 
-        //N
-        k--;
-        if(k==0){
-            return root->val;
-        }
+        //left
+        inorder(root->left, k);
 
-        //R
-        int rightAns=kthSmallest(root->right,k);
-        return rightAns;
+        //node
+        pq.push(root->val);
+        if(pq.size() > k) pq.pop();
+
+        //right
+        inorder(root->right, k);
+    }
+
+    int kthSmallest(TreeNode* root, int k) {
+        
+        inorder(root, k);
+
+        return pq.top();
     }
 };

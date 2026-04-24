@@ -6,22 +6,21 @@ public:
         if(root->val == key){
             return helper(root);
         }
+
         TreeNode* dummy = root;
-        while(root != NULL){
+        while(root){
             if(root->val > key){
-                if(root->left != NULL && root->left->val == key){
+                if(root->left and root->left->val == key){
                     root->left = helper(root->left);
                     break;
                 }else{
                     root = root->left;
                 }
-            }
-            else if(root->val < key){
-                if(root->right != NULL && root->right->val == key){
+            }else{
+                if(root->right and root->right->val == key){
                     root->right = helper(root->right);
                     break;
-                }
-                else{
+                }else{
                     root = root->right;
                 }
             }
@@ -37,27 +36,21 @@ public:
         else if(root->right == NULL){
             return root->left;
         }
-
-        TreeNode* rightChild = root->right;
-        TreeNode* lastRight = findLastRight(root->left);
-        lastRight->right = rightChild;
-
+        
+        TreeNode* rootRight = root->right;
+        TreeNode* rightChild = lastRight(root->left);
+        rightChild->right = rootRight;
+        
         return root->left;
     }
 
-    // TreeNode* findLastRight(TreeNode* root){
-    //     if(root->right == NULL){
-    //         return root;
-    //     }
-
-    //     return findLastRight(root->right);
-    // }
-    TreeNode* findLastRight(TreeNode* root){
-        TreeNode* lastRight = NULL;
+    TreeNode* lastRight(TreeNode* root){
+        TreeNode* curr = NULL;
         while(root){
-            lastRight = root;
+            curr = root;
             root = root->right;
         }
-        return lastRight;
+
+        return curr;
     }
 };

@@ -562,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
+| [0657-robot-return-to-origin](https://github.com/moali007/CodeNotes/tree/master/0657-robot-return-to-origin) |
 | [1041-available-captures-for-rook](https://github.com/moali007/CodeNotes/tree/master/1041-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/moali007/CodeNotes/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/moali007/CodeNotes/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/moali007/CodeNotes/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/moali007/CodeNotes/tree/master/0647-palindromic-substrings) |
+| [0657-robot-return-to-origin](https://github.com/moali007/CodeNotes/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/moali007/CodeNotes/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/moali007/CodeNotes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/moali007/CodeNotes/tree/master/0768-partition-labels) |

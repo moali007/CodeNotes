@@ -1,41 +1,27 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    int n;
     
-    TreeNode* f(vector<int>& preorder, int &i, int min, int max){
-        if(i >= n){
+    TreeNode* build(vector<int>& preorder, int &i, int min, int max){
+        if(i >= preorder.size()){
             return NULL;
         }
-
-        TreeNode* root = NULL;
-        if(preorder[i] > min and preorder[i] < max){
-            root = new TreeNode(preorder[i++]);
-
-            root->left = f(preorder, i, min, root->val);
-            root->right = f(preorder, i, root->val, max);
-        }
         
-        return root;
+        TreeNode* curr = NULL;
+        if(preorder[i] > min and preorder[i] < max){
+            curr = new TreeNode(preorder[i++]);
+
+            curr->left = build(preorder, i, min, curr->val);
+            curr->right = build(preorder, i, curr->val, max);
+        }
+
+        return curr;
     }
 
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        n = preorder.size();
 
-        int min = INT_MIN;
-        int max = INT_MAX;
-        int i = 0;
-
-        return f(preorder, i, min, max);
+       int i = 0;
+       int min = INT_MIN;
+       int max = INT_MAX;
+       return build(preorder, i, min, max); 
     }
 };

@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/moali007/CodeNotes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/moali007/CodeNotes/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/moali007/CodeNotes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/moali007/CodeNotes/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/moali007/CodeNotes/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/moali007/CodeNotes/tree/master/0485-max-consecutive-ones) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/moali007/CodeNotes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/moali007/CodeNotes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/moali007/CodeNotes/tree/master/0611-valid-triangle-number) |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/moali007/CodeNotes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/moali007/CodeNotes/tree/master/0342-power-of-four) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/moali007/CodeNotes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/moali007/CodeNotes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

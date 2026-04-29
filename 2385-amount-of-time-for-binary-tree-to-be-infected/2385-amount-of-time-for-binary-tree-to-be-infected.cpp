@@ -68,8 +68,9 @@ public:
                     q.push(parent_track[curr]);
                 }
             }
-            if(spread == true) time++;
+            // if(spread == true) time++;
+            time++;
         }
-        return time;
+        return time-1;
     }
 };

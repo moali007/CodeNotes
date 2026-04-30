@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/moali007/CodeNotes/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/moali007/CodeNotes/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/moali007/CodeNotes/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/moali007/CodeNotes/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/moali007/CodeNotes/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0454-4sum-ii](https://github.com/moali007/CodeNotes/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/moali007/CodeNotes/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/moali007/CodeNotes/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0326-power-of-three](https://github.com/moali007/CodeNotes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/moali007/CodeNotes/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/moali007/CodeNotes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/moali007/CodeNotes/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
 | [0679-24-game](https://github.com/moali007/CodeNotes/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/moali007/CodeNotes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/moali007/CodeNotes/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/moali007/CodeNotes/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/moali007/CodeNotes/tree/master/0605-can-place-flowers) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/moali007/CodeNotes/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/moali007/CodeNotes/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1004-max-consecutive-ones-iii) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/moali007/CodeNotes/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/moali007/CodeNotes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/moali007/CodeNotes/tree/master/0653-two-sum-iv-input-is-a-bst) |

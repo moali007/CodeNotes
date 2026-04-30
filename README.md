@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/moali007/CodeNotes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/moali007/CodeNotes/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/moali007/CodeNotes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/moali007/CodeNotes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/moali007/CodeNotes/tree/master/3748-sort-matrix-by-diagonals) |
@@ -757,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/moali007/CodeNotes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/moali007/CodeNotes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/moali007/CodeNotes/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/moali007/CodeNotes/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/moali007/CodeNotes/tree/master/3797-design-spreadsheet) |
 ## Interactive
@@ -1015,6 +1017,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/moali007/CodeNotes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/moali007/CodeNotes/tree/master/3618-find-the-original-typed-string-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/moali007/CodeNotes/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |

@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0079-word-search](https://github.com/moali007/CodeNotes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/moali007/CodeNotes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/moali007/CodeNotes/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moali007/CodeNotes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/moali007/CodeNotes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0013-roman-to-integer](https://github.com/moali007/CodeNotes/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/moali007/CodeNotes/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/moali007/CodeNotes/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/moali007/CodeNotes/tree/master/0146-lru-cache) |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0053-maximum-subarray](https://github.com/moali007/CodeNotes/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/moali007/CodeNotes/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/moali007/CodeNotes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/moali007/CodeNotes/tree/master/0191-number-of-1-bits) |
@@ -812,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0101-symmetric-tree](https://github.com/moali007/CodeNotes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/moali007/CodeNotes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |
@@ -1193,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0101-symmetric-tree](https://github.com/moali007/CodeNotes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/moali007/CodeNotes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/moali007/CodeNotes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/moali007/CodeNotes/tree/master/0113-path-sum-ii) |

@@ -20,15 +20,19 @@ public:
             if(curr->left){
                 TreeNode* leftChild = curr->left;
                 //go extreme right of leftChild node
-                while(leftChild->right){
+                while(leftChild->right && leftChild->right != curr){
                     leftChild = leftChild->right;
                 }
-                //attach rightmost to curr
-                leftChild->right = curr;
-                //move curr left and delete curr->left
-                TreeNode* temp = curr;
-                curr = curr->left;
-                temp->left = NULL;
+                //if thread not created yet, create it
+                if(leftChild->right == NULL){
+                    leftChild->right = curr;
+                    curr = curr->left;
+                }else{
+                    //thread already exists, break it
+                    leftChild->right = NULL;
+                    inorder.push_back(curr->val);
+                    curr = curr->right;
+                }
             }else{
                 inorder.push_back(curr->val);
                 curr = curr->right;

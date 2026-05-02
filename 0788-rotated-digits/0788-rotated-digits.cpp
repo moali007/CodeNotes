@@ -14,7 +14,6 @@ public:
             }
             if(d == 2 || d == 5 || d == 6 || d == 9){
                 diff = true;
-                // break;
             }
         }
 

@@ -11,43 +11,27 @@
  */
 class Solution {
 public:
-
-
-    void solve(TreeNode* &root,vector<int> &ans){
-        if(root==NULL)
-        return;
-
-        //LNR
-        solve(root->left,ans);
-        ans.push_back(root->val);
-        solve(root->right,ans);
-    }
-    
+    //MORRIS INORDER TRAVERSAL
     vector<int> inorderTraversal(TreeNode* root) {
-       
-        // vector<int>ans;
-        // solve(root,ans);
-        // return ans;
-
-        //morris inorder traversal
         vector<int> inorder;
+
         TreeNode* curr = root;
-        
-        while(curr != NULL){
-            if(curr->left == NULL){ // visit ki baari, then right
-                inorder.push_back(curr->val);
-                curr = curr->right;
-            }
-            else{
+        while(curr){
+            if(curr->left){
                 TreeNode* leftChild = curr->left;
-                //go extreme right of leftChild
-                while(leftChild->right != NULL){
+                //go extreme right of leftChild node
+                while(leftChild->right){
                     leftChild = leftChild->right;
                 }
+                //attach rightmost to curr
                 leftChild->right = curr;
+                //move curr left and delete curr->left
                 TreeNode* temp = curr;
                 curr = curr->left;
                 temp->left = NULL;
+            }else{
+                inorder.push_back(curr->val);
+                curr = curr->right;
             }
         }
 

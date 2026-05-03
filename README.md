@@ -645,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0394-decode-string](https://github.com/moali007/CodeNotes/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/moali007/CodeNotes/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/moali007/CodeNotes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/moali007/CodeNotes/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |
@@ -831,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/moali007/CodeNotes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
@@ -876,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0386-lexicographical-numbers](https://github.com/moali007/CodeNotes/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/moali007/CodeNotes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/moali007/CodeNotes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/moali007/CodeNotes/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
@@ -913,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/moali007/CodeNotes/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/moali007/CodeNotes/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/moali007/CodeNotes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/moali007/CodeNotes/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/moali007/CodeNotes/tree/master/0547-number-of-provinces) |
@@ -1219,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/moali007/CodeNotes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
@@ -1240,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0099-recover-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/moali007/CodeNotes/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/moali007/CodeNotes/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1301,6 +1307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0146-lru-cache](https://github.com/moali007/CodeNotes/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/moali007/CodeNotes/tree/master/0449-serialize-and-deserialize-bst) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/moali007/CodeNotes/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/moali007/CodeNotes/tree/master/3678-design-task-manager) |

@@ -638,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/moali007/CodeNotes/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
@@ -828,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0230-kth-smallest-element-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0230-kth-smallest-element-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/moali007/CodeNotes/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/moali007/CodeNotes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
@@ -907,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0200-number-of-islands](https://github.com/moali007/CodeNotes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/moali007/CodeNotes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/moali007/CodeNotes/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/moali007/CodeNotes/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/moali007/CodeNotes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/moali007/CodeNotes/tree/master/0463-island-perimeter) |
@@ -1213,6 +1217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0230-kth-smallest-element-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/moali007/CodeNotes/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/moali007/CodeNotes/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1295,6 +1300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/moali007/CodeNotes/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/moali007/CodeNotes/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/moali007/CodeNotes/tree/master/3678-design-task-manager) |

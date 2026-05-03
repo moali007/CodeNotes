@@ -655,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0680-valid-palindrome-ii](https://github.com/moali007/CodeNotes/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/moali007/CodeNotes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/moali007/CodeNotes/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/moali007/CodeNotes/tree/master/0796-rotate-string) |
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [0916-decoded-string-at-index](https://github.com/moali007/CodeNotes/tree/master/0916-decoded-string-at-index) |
 | [1006-vowel-spellchecker](https://github.com/moali007/CodeNotes/tree/master/1006-vowel-spellchecker) |
@@ -1298,6 +1299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/moali007/CodeNotes/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/moali007/CodeNotes/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |

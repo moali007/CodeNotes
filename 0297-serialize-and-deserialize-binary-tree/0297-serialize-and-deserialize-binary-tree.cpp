@@ -21,8 +21,8 @@ public:
         while(!q.empty()){
             TreeNode* curr = q.front(); q.pop();
 
-            if(curr == NULL) s.append("#,");
-            else s.append(to_string(curr->val) + ',');
+            if(curr == NULL) s += "#,"; 
+            else s += to_string(curr->val) + ',';
 
             if(curr != NULL){
                 q.push(curr->left);

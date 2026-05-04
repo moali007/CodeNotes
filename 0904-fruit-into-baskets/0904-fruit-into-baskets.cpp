@@ -3,9 +3,9 @@ public:
     int totalFruit(vector<int>& fruits) {
         int n = fruits.size();
 
+        unordered_map<int, int> mp; //{val, cnt}
         int i = 0, j = 0;
         int maxi = 0;
-        unordered_map<int, int> mp; //{val, cnt}
 
         while(j < n){
             mp[fruits[j]]++;

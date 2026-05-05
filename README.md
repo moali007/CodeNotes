@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0216-combination-sum-iii](https://github.com/moali007/CodeNotes/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/moali007/CodeNotes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/moali007/CodeNotes/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moali007/CodeNotes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/moali007/CodeNotes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/moali007/CodeNotes/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/moali007/CodeNotes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/moali007/CodeNotes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/moali007/CodeNotes/tree/master/0560-subarray-sum-equals-k) |

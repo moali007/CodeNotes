@@ -40,7 +40,7 @@ public:
                 for(int idx : mp[arr[curr_idx]]){
                     if(!vis[idx]){
                         q.push(idx);
-                        vis[idx] == true;
+                        vis[idx] = true;
                     }
                 }
 

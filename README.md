@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/moali007/CodeNotes/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/moali007/CodeNotes/tree/master/1306-minimum-absolute-difference) |
+| [1306-jump-game-iii](https://github.com/moali007/CodeNotes/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/moali007/CodeNotes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -907,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/moali007/CodeNotes/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1306-jump-game-iii](https://github.com/moali007/CodeNotes/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -945,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/moali007/CodeNotes/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/moali007/CodeNotes/tree/master/1162-as-far-from-land-as-possible) |
+| [1306-jump-game-iii](https://github.com/moali007/CodeNotes/tree/master/1306-jump-game-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/moali007/CodeNotes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/moali007/CodeNotes/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |

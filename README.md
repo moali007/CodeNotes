@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/moali007/CodeNotes/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/moali007/CodeNotes/tree/master/3660-jump-game-ix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/moali007/CodeNotes/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/moali007/CodeNotes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1086,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/moali007/CodeNotes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/moali007/CodeNotes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/moali007/CodeNotes/tree/master/3618-find-the-original-typed-string-ii) |
+| [3660-jump-game-ix](https://github.com/moali007/CodeNotes/tree/master/3660-jump-game-ix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/moali007/CodeNotes/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Combinatorics

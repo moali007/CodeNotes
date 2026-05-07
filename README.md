@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0047-permutations-ii](https://github.com/moali007/CodeNotes/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/moali007/CodeNotes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/moali007/CodeNotes/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/moali007/CodeNotes/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/moali007/CodeNotes/tree/master/0074-search-a-2d-matrix) |
@@ -729,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0011-container-with-most-water](https://github.com/moali007/CodeNotes/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/moali007/CodeNotes/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/moali007/CodeNotes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/moali007/CodeNotes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/moali007/CodeNotes/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
@@ -1026,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0032-longest-valid-parentheses](https://github.com/moali007/CodeNotes/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/moali007/CodeNotes/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/moali007/CodeNotes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/moali007/CodeNotes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/moali007/CodeNotes/tree/master/0072-edit-distance) |

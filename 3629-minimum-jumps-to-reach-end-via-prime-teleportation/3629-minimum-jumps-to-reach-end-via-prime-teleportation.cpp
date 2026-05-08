@@ -1,16 +1,11 @@
 class Solution {
 public:
-    
-    
-
-    //seive of erathonos ( 1 to 1e6 )
-    
-
     int minJumps(vector<int>& nums) {
         int n = nums.size();
 
         int maxEle = *max_element(nums.begin(), nums.end());
-
+        
+        //seive of erathonos ( 1 to maxEle )
         vector<int> isPrime(maxEle + 1, 1);
         isPrime[0] = 0;
         isPrime[1] = 0;

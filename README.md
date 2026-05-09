@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/moali007/CodeNotes/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/moali007/CodeNotes/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/moali007/CodeNotes/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/moali007/CodeNotes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/moali007/CodeNotes/tree/master/0525-contiguous-array) |
@@ -1178,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0394-decode-string](https://github.com/moali007/CodeNotes/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/moali007/CodeNotes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
 | [0916-decoded-string-at-index](https://github.com/moali007/CodeNotes/tree/master/0916-decoded-string-at-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/moali007/CodeNotes/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1220,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/moali007/CodeNotes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/moali007/CodeNotes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/moali007/CodeNotes/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/moali007/CodeNotes/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/moali007/CodeNotes/tree/master/1159-smallest-subsequence-of-distinct-characters) |

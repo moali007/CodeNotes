@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/moali007/CodeNotes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1861-rotating-the-box](https://github.com/moali007/CodeNotes/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/moali007/CodeNotes/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/moali007/CodeNotes/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/moali007/CodeNotes/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/moali007/CodeNotes/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -620,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0657-robot-return-to-origin](https://github.com/moali007/CodeNotes/tree/master/0657-robot-return-to-origin) |
 | [1041-available-captures-for-rook](https://github.com/moali007/CodeNotes/tree/master/1041-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/moali007/CodeNotes/tree/master/1642-water-bottles) |
+| [1914-cyclically-rotating-a-grid](https://github.com/moali007/CodeNotes/tree/master/1914-cyclically-rotating-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/moali007/CodeNotes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/moali007/CodeNotes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -810,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1402-count-square-submatrices-with-all-ones](https://github.com/moali007/CodeNotes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/moali007/CodeNotes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1861-rotating-the-box](https://github.com/moali007/CodeNotes/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/moali007/CodeNotes/tree/master/1914-cyclically-rotating-a-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/moali007/CodeNotes/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/moali007/CodeNotes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/moali007/CodeNotes/tree/master/3415-check-if-grid-satisfies-conditions) |

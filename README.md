@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2536-determine-if-two-events-have-conflict](https://github.com/moali007/CodeNotes/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2548-destroy-sequential-targets](https://github.com/moali007/CodeNotes/tree/master/2548-destroy-sequential-targets) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2553-separate-the-digits-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/moali007/CodeNotes/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/moali007/CodeNotes/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2615-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2615-sum-of-distances) |
@@ -634,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/moali007/CodeNotes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/moali007/CodeNotes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/moali007/CodeNotes/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/moali007/CodeNotes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/moali007/CodeNotes/tree/master/3616-make-array-elements-equal-to-zero) |

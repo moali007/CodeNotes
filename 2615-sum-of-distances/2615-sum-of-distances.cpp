@@ -2,31 +2,36 @@ class Solution {
 public:
     vector<long long> distance(vector<int>& nums) {
         int n = nums.size();
-        vector<long long> ans(n);
-        unordered_map<int, vector<int>> mp; //{arr[i], {indexes}}
-
-        for(int i=0;i<n;i++){
+        
+        unordered_map<int, vector<int>> mp; //{element, {indexes present}}
+        for(int i = 0; i < n; i++){
             mp[nums[i]].push_back(i);
         }
 
+        vector<long long> ans(n, 0);
+
         for(auto it : mp){
             int num = it.first;
-            vector<int> &indexes = it.second;
-
-            long long totalSum = accumulate(indexes.begin(), indexes.end(), 0ll);
+            vector<int> indexes = it.second;
             int m = indexes.size();
-            long long preSum = 0;
 
-            for(int i=0;i<m;i++){
-                int index = indexes[i];
-                long long postSum = totalSum - preSum - index;
+            long long sum = 0;
+            vector<long long> preSum(m, 0);
+            for(int i = 0; i < m; i++){
+                sum += indexes[i];
+                preSum[i] = sum;
+            }
 
-                ans[index] += (index * (long long)(i));
-                ans[index] -= (preSum);
-                ans[index] -= (index * (long long)(m-i-1));
-                ans[index] += (postSum);
+            for(int i = 0; i < m; i++){
+                long long leftSum = preSum[i] - indexes[i];
+                int leftLength = i;
+                long long leftDiff = 1LL * indexes[i] * leftLength - leftSum;
 
-                preSum += index;
+                long long rightSum = preSum[m-1] - indexes[i] - leftSum;
+                int rightLength = m - i - 1;
+                long long rightDiff = rightSum - 1LL * indexes[i] * rightLength;
+
+                ans[indexes[i]] = leftDiff + rightDiff;
             }
         }
 

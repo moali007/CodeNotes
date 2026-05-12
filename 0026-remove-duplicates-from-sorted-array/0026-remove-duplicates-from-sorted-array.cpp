@@ -1,15 +1,22 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        //BRute force sol -  set
-        //optimal - 2 pointer 
-        int k=1;
-        for(int i=1;i<nums.size();i++){
-            if(nums[i] != nums[k-1]){
-                nums[k] = nums[i];
+        int n = nums.size();
+
+        int i = 0, k = 1;
+
+        while(k < n){
+
+            while(k < n and nums[k] == nums[i]){
                 k++;
             }
+
+            if(k < n){
+                nums[i+1] = nums[k];
+                i++;
+            }
         }
-        return k;
+
+        return i+1;
     }
 };

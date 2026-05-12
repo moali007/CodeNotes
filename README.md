@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1813-maximum-erasure-value](https://github.com/moali007/CodeNotes/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/moali007/CodeNotes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/moali007/CodeNotes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/moali007/CodeNotes/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/moali007/CodeNotes/tree/master/1642-water-bottles) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/moali007/CodeNotes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/moali007/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/moali007/CodeNotes/tree/master/2202-sum-of-k-mirror-numbers) |

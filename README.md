@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/moali007/CodeNotes/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/moali007/CodeNotes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/moali007/CodeNotes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/moali007/CodeNotes/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/moali007/CodeNotes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/moali007/CodeNotes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -776,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/moali007/CodeNotes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/moali007/CodeNotes/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/moali007/CodeNotes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/moali007/CodeNotes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/moali007/CodeNotes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/moali007/CodeNotes/tree/master/1917-maximum-average-pass-ratio) |

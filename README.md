@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/moali007/CodeNotes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/moali007/CodeNotes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/moali007/CodeNotes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/moali007/CodeNotes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/moali007/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/moali007/CodeNotes/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/moali007/CodeNotes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/moali007/CodeNotes/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/moali007/CodeNotes/tree/master/1930-unique-length-3-palindromic-subsequences) |

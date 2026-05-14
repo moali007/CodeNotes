@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/moali007/CodeNotes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/moali007/CodeNotes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/moali007/CodeNotes/tree/master/2784-check-if-array-is-good) |
 | [3194-find-words-containing-character](https://github.com/moali007/CodeNotes/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/moali007/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/moali007/CodeNotes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/moali007/CodeNotes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/moali007/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/moali007/CodeNotes/tree/master/2784-check-if-array-is-good) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/moali007/CodeNotes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/moali007/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2512-reward-top-k-students](https://github.com/moali007/CodeNotes/tree/master/2512-reward-top-k-students) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/moali007/CodeNotes/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2689-rearranging-fruits](https://github.com/moali007/CodeNotes/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/moali007/CodeNotes/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/moali007/CodeNotes/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/moali007/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/moali007/CodeNotes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |

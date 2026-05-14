@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0283-move-zeroes](https://github.com/moali007/CodeNotes/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/moali007/CodeNotes/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/moali007/CodeNotes/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0318-maximum-product-of-word-lengths](https://github.com/moali007/CodeNotes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/moali007/CodeNotes/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/moali007/CodeNotes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/moali007/CodeNotes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/moali007/CodeNotes/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/moali007/CodeNotes/tree/master/0394-decode-string) |
@@ -1043,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0231-power-of-two](https://github.com/moali007/CodeNotes/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/moali007/CodeNotes/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/moali007/CodeNotes/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/moali007/CodeNotes/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/moali007/CodeNotes/tree/master/0461-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/moali007/CodeNotes/tree/master/0491-non-decreasing-subsequences) |

@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/moali007/CodeNotes/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/moali007/CodeNotes/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/moali007/CodeNotes/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/moali007/CodeNotes/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/moali007/CodeNotes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0278-first-bad-version](https://github.com/moali007/CodeNotes/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/moali007/CodeNotes/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/moali007/CodeNotes/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/moali007/CodeNotes/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/moali007/CodeNotes/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/moali007/CodeNotes/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/moali007/CodeNotes/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/moali007/CodeNotes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/moali007/CodeNotes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/moali007/CodeNotes/tree/master/0560-subarray-sum-equals-k) |
@@ -774,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0316-remove-duplicate-letters](https://github.com/moali007/CodeNotes/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/moali007/CodeNotes/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/moali007/CodeNotes/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/moali007/CodeNotes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/moali007/CodeNotes/tree/master/0605-can-place-flowers) |
@@ -1096,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0322-coin-change](https://github.com/moali007/CodeNotes/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/moali007/CodeNotes/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/moali007/CodeNotes/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/moali007/CodeNotes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/moali007/CodeNotes/tree/master/0474-ones-and-zeroes) |

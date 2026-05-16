@@ -1,22 +1,24 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int n=nums.size();
-        int s=0;
-        int e=n-1;
+        int n = nums.size();
 
-        while(s<e){
-            //remove duplicates from left and right
-            while(s<e && nums[s] == nums[s+1]) s++;
-            while(s<e && nums[e] == nums[e-1]) e--;
+        int s = 0, e = n-1;
+
+        while(s < e){
+            while(s < e and nums[s] == nums[s+1]) s++;
+            while(e > s and nums[e] == nums[e-1]) e--;
 
             int mid = s + (e-s)/2;
-            if(nums[mid] > nums[e]){ //gadbad
+
+            if(nums[mid] > nums[e]){
                 s = mid + 1;
             }else{
                 e = mid;
             }
         }
-        return nums[s];
+
+        return nums[e];
+
     }
 };

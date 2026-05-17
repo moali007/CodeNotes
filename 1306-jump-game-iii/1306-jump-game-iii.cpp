@@ -4,14 +4,12 @@ public:
         int n = arr.size();
 
         vector<bool> vis(n, false);
-
         queue<int> q;
         q.push(start);
         vis[start] = true;
 
         while(!q.empty()){
-            int idx = q.front();
-            q.pop();
+            int idx = q.front(); q.pop();
 
             if(arr[idx] == 0) return true;
 
@@ -30,6 +28,5 @@ public:
         }
 
         return false;
-
     }
 };

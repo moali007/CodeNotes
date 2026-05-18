@@ -1,37 +1,33 @@
 class Solution {
 public:
+    int n, m;
+    vector<int> delrow =  {-1,0,1,0};
+    vector<int> delcol = {0,1,0,-1};
     
-    vector<int> dr = {-1, 0, 1, 0};
-    vector<int> dc = {0, 1, 0, -1};
-    int n,m;
-    vector<vector<int>> ans;
-    void dfs(int row, int col, vector<vector<int>>&vis, vector<vector<int>>& image, int color, int initialColor){
-        vis[row][col] = 1;
-        ans[row][col] = color;
+    void dfs(int r, int c, int iniColor, int color, vector<vector<bool>>& vis, vector<vector<int>>& image){
+        vis[r][c] = true;
+        image[r][c] = color;
 
         for(int i = 0; i < 4; i++){
-                int drow = row + dr[i];
-                int dcol = col + dc[i];
+            int row = r + delrow[i];
+            int col = c + delcol[i];
 
-                if(drow>=0 and drow<n and dcol>=0 and dcol<m and vis[drow][dcol] == 0
-                     and image[drow][dcol] == initialColor){
-
-                    dfs(drow, dcol, vis, image, color, initialColor);
-                }
+            if(row >= 0 and row < n and col >= 0 and col < m and image[row][col] == iniColor and !vis[row][col]){
+                dfs(row, col, iniColor, color, vis, image);
+            }
         }
     }
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         n = image.size();
         m = image[0].size();
- 
-        int initialColor = image[sr][sc];
-        ans = image;
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        
-        dfs(sr, sc, vis, image, color, initialColor);
 
-        return ans;
-        
+        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        int iniColor = image[sr][sc];
+
+        dfs(sr, sc, iniColor, color, vis, image);
+
+        return image;
+
     }
 };

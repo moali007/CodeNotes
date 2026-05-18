@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0115-distinct-subsequences](https://github.com/moali007/CodeNotes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/moali007/CodeNotes/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/moali007/CodeNotes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/moali007/CodeNotes/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1097,6 +1098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/moali007/CodeNotes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/moali007/CodeNotes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/moali007/CodeNotes/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/moali007/CodeNotes/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/moali007/CodeNotes/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/moali007/CodeNotes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |

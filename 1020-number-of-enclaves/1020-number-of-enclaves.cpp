@@ -1,61 +1,60 @@
 class Solution {
 public:
-    int n,m;
-    vector<int> drow = {-1, 0, 1, 0};
-    vector<int> dcol = {0, 1, 0 ,-1};
-    
-    void dfs(int r, int c, vector<vector<int>>&vis, vector<vector<int>>&board){
-        vis[r][c] = 1;
+    int n, m;
+    vector<int> dr = {-1, 0, 1, 0};
+    vector<int> dc = {0, 1, 0, -1};
 
-        for(int i=0;i<4;i++){
-            int dr = r + drow[i];
-            int dc = c + dcol[i];
+    void dfs(int i, int j, vector<vector<bool>> &vis, vector<vector<int>> &grid){
+        vis[i][j] = true;
+        // grid[i][j] = 0;
 
-            if(dr>=0 and dr<n and dc>=0 and dc<m and board[dr][dc] == 1 and vis[dr][dc] == 0){
-                dfs(dr, dc, vis, board);
+        for(int k = 0; k < 4; k++){
+            int r = i + dr[k];
+            int c = j + dc[k];
+
+            if(r >= 0 and r < n and c >= 0 and c < m and grid[r][c] == 1 and !vis[r][c]){
+                dfs(r, c, vis, grid);
             }
         }
     }
 
-    int numEnclaves(vector<vector<int>>& board) {
-        n = board.size();
-        m = board[0].size();
+    int numEnclaves(vector<vector<int>>& grid) {
+        n = grid.size();
+        m = grid[0].size();
 
-        vector<vector<int>> vis(n, vector<int>(m, 0));
+        vector<vector<bool>> vis(n , vector<bool>(m, false));
 
         for(int j = 0; j < m; j++){
-            //first row
-            if(board[0][j] == 1 and vis[0][j] == 0){
-                dfs(0, j, vis, board);
+            if(grid[0][j] == 1 and !vis[0][j]){
+                dfs(0, j, vis, grid);
             }
 
-            //last row
-            if(board[n-1][j] == 1 and vis[n-1][j] == 0){
-                dfs(n-1, j, vis, board);
+            if(grid[n-1][j] == 1 and !vis[n-1][j]){
+                dfs(n-1, j, vis, grid);
             }
         }
-        
+
         for(int i = 0; i < n; i++){
-            //first column
-            if(board[i][0] == 1 and vis[i][0] == 0){
-                dfs(i, 0, vis, board);
+            if(grid[i][0] == 1 and !vis[i][0]){
+                dfs(i, 0, vis, grid);
             }
 
-            //last column
-            if(board[i][m-1] == 1 and vis[i][m-1] == 0){
-                dfs(i, m-1, vis, board);
+            if(grid[i][m-1] == 1 and !vis[i][m-1]){
+                dfs(i, m-1, vis, grid);
             }
         }
-        
+
         int cnt = 0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(board[i][j] == 1 and vis[i][j] == 0){
-                    cnt++;
-                }
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(grid[i][j] == 1 and vis[i][j] == false)
+                   cnt++;
             }
         }
 
         return cnt;
+
+
     }
 };

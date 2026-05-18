@@ -542,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0048-rotate-image](https://github.com/moali007/CodeNotes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/moali007/CodeNotes/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/moali007/CodeNotes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/moali007/CodeNotes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/moali007/CodeNotes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
@@ -1085,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0055-jump-game](https://github.com/moali007/CodeNotes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/moali007/CodeNotes/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/moali007/CodeNotes/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/moali007/CodeNotes/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/moali007/CodeNotes/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/moali007/CodeNotes/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/moali007/CodeNotes/tree/master/0115-distinct-subsequences) |
@@ -1332,6 +1334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/moali007/CodeNotes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/moali007/CodeNotes/tree/master/0139-word-break) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/moali007/CodeNotes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |

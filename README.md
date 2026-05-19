@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0322-coin-change](https://github.com/moali007/CodeNotes/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/moali007/CodeNotes/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/moali007/CodeNotes/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/moali007/CodeNotes/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/moali007/CodeNotes/tree/master/0414-third-maximum-number) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/moali007/CodeNotes/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/moali007/CodeNotes/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/moali007/CodeNotes/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/moali007/CodeNotes/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/moali007/CodeNotes/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0229-majority-element-ii](https://github.com/moali007/CodeNotes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/moali007/CodeNotes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/moali007/CodeNotes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/moali007/CodeNotes/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/moali007/CodeNotes/tree/master/0424-longest-repeating-character-replacement) |
@@ -465,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0268-missing-number](https://github.com/moali007/CodeNotes/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/moali007/CodeNotes/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/moali007/CodeNotes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/moali007/CodeNotes/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/moali007/CodeNotes/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/moali007/CodeNotes/tree/master/0436-find-right-interval) |
@@ -620,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/moali007/CodeNotes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/moali007/CodeNotes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/moali007/CodeNotes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/moali007/CodeNotes/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/moali007/CodeNotes/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/moali007/CodeNotes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/moali007/CodeNotes/tree/master/0556-next-greater-element-iii) |

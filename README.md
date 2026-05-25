@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/moali007/CodeNotes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1871-jump-game-vii](https://github.com/moali007/CodeNotes/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/moali007/CodeNotes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -743,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/moali007/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/moali007/CodeNotes/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/moali007/CodeNotes/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/moali007/CodeNotes/tree/master/1871-jump-game-vii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/moali007/CodeNotes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/moali007/CodeNotes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/moali007/CodeNotes/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -1151,6 +1153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/moali007/CodeNotes/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/moali007/CodeNotes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/moali007/CodeNotes/tree/master/1871-jump-game-vii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/moali007/CodeNotes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/moali007/CodeNotes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
@@ -1212,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/moali007/CodeNotes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/moali007/CodeNotes/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/moali007/CodeNotes/tree/master/1871-jump-game-vii) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/moali007/CodeNotes/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2134-maximize-the-confusion-of-an-exam) |

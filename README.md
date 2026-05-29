@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/moali007/CodeNotes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/moali007/CodeNotes/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/moali007/CodeNotes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/moali007/CodeNotes/tree/master/3093-longest-common-suffix-queries) |
 | [3194-find-words-containing-character](https://github.com/moali007/CodeNotes/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/moali007/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/moali007/CodeNotes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -771,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2833-furthest-point-from-origin](https://github.com/moali007/CodeNotes/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/moali007/CodeNotes/tree/master/2887-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/moali007/CodeNotes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/moali007/CodeNotes/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/moali007/CodeNotes/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/moali007/CodeNotes/tree/master/3194-find-words-containing-character) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -1284,6 +1286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0808-number-of-matching-subsequences](https://github.com/moali007/CodeNotes/tree/master/0808-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/moali007/CodeNotes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/moali007/CodeNotes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/moali007/CodeNotes/tree/master/3093-longest-common-suffix-queries) |
 ## Monotonic Stack
 |  |
 | ------- |

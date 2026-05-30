@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2784-check-if-array-is-good](https://github.com/moali007/CodeNotes/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/moali007/CodeNotes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/moali007/CodeNotes/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/moali007/CodeNotes/tree/master/3161-block-placement-queries) |
 | [3194-find-words-containing-character](https://github.com/moali007/CodeNotes/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/moali007/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/moali007/CodeNotes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/moali007/CodeNotes/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/moali007/CodeNotes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/moali007/CodeNotes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/moali007/CodeNotes/tree/master/3161-block-placement-queries) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/moali007/CodeNotes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/moali007/CodeNotes/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1430,6 +1432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/moali007/CodeNotes/tree/master/3161-block-placement-queries) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 ## Probability and Statistics
@@ -1482,4 +1485,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/moali007/CodeNotes/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/moali007/CodeNotes/tree/master/0451-sort-characters-by-frequency) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/moali007/CodeNotes/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->

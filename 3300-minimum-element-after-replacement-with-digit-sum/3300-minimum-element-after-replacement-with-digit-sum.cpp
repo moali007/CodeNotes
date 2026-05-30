@@ -1,20 +1,25 @@
 class Solution {
 public:
+    
+    int digitSum(int num){
+        int sum = 0;
+
+        while(num > 0){
+            int d = num % 10;
+            num = num / 10;
+            sum += d;
+        }
+
+        return sum;
+    }
+
     int minElement(vector<int>& nums) {
-        int res = 36;
-        for (auto& x : nums)
-            res = min(res, integral(x) - integral(x - 1));
-        return res;
-    }
+        int mini = 1e9;
 
-    int integral(int n) {
-        return ((n * (n + 1)) >> 1) -
-                (9 * (seg(n, 10) + seg(n, 100) +
-                seg(n, 1000) + seg(n, 10000)));
-    }
+        for(int num : nums){
+            mini = min(mini, digitSum(num));
+        }
 
-    int seg(int n, int k) {
-        auto [q, r] = div(n, k);
-        return k * ((q * (q - 1)) >> 1) + q * (r + 1);
+        return mini;
     }
 };

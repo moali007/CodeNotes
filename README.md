@@ -616,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moali007/CodeNotes/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/moali007/CodeNotes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/moali007/CodeNotes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/moali007/CodeNotes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/moali007/CodeNotes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/moali007/CodeNotes/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/moali007/CodeNotes/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1179,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3660-jump-game-ix](https://github.com/moali007/CodeNotes/tree/master/3660-jump-game-ix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/moali007/CodeNotes/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/moali007/CodeNotes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1202,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/moali007/CodeNotes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/moali007/CodeNotes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/moali007/CodeNotes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/moali007/CodeNotes/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/moali007/CodeNotes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bitmask

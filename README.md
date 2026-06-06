@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2548-destroy-sequential-targets](https://github.com/moali007/CodeNotes/tree/master/2548-destroy-sequential-targets) |
 | [2551-apply-operations-to-an-array](https://github.com/moali007/CodeNotes/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/moali007/CodeNotes/tree/master/2574-left-and-right-sum-differences) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/moali007/CodeNotes/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/moali007/CodeNotes/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2615-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2615-sum-of-distances) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2469-longest-subsequence-with-limited-sum](https://github.com/moali007/CodeNotes/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/moali007/CodeNotes/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/moali007/CodeNotes/tree/master/2530-minimize-maximum-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/moali007/CodeNotes/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/moali007/CodeNotes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |

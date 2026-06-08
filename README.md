@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2144-maximum-difference-between-increasing-elements](https://github.com/moali007/CodeNotes/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/moali007/CodeNotes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/moali007/CodeNotes/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/moali007/CodeNotes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2165-plates-between-candles](https://github.com/moali007/CodeNotes/tree/master/2165-plates-between-candles) |
 | [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/moali007/CodeNotes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1048-longest-string-chain](https://github.com/moali007/CodeNotes/tree/master/1048-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/moali007/CodeNotes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1861-rotating-the-box](https://github.com/moali007/CodeNotes/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/moali007/CodeNotes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/moali007/CodeNotes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/moali007/CodeNotes/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/moali007/CodeNotes/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -678,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1642-water-bottles](https://github.com/moali007/CodeNotes/tree/master/1642-water-bottles) |
 | [1914-cyclically-rotating-a-grid](https://github.com/moali007/CodeNotes/tree/master/1914-cyclically-rotating-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/moali007/CodeNotes/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/moali007/CodeNotes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/moali007/CodeNotes/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/moali007/CodeNotes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/moali007/CodeNotes/tree/master/2271-rearrange-array-elements-by-sign) |

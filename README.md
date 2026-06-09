@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/moali007/CodeNotes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/moali007/CodeNotes/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/moali007/CodeNotes/tree/master/3689-maximum-total-subarray-value-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/moali007/CodeNotes/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/moali007/CodeNotes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -862,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/moali007/CodeNotes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/moali007/CodeNotes/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/moali007/CodeNotes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3689-maximum-total-subarray-value-i](https://github.com/moali007/CodeNotes/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |

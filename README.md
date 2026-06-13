@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/moali007/CodeNotes/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/moali007/CodeNotes/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/moali007/CodeNotes/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3616-make-array-elements-equal-to-zero](https://github.com/moali007/CodeNotes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/moali007/CodeNotes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/moali007/CodeNotes/tree/master/3838-weighted-word-mapping) |
 ## Counting Sort
 |  |
 | ------- |
@@ -806,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/moali007/CodeNotes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/moali007/CodeNotes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/moali007/CodeNotes/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/moali007/CodeNotes/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/moali007/CodeNotes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |

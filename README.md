@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1046-max-consecutive-ones-iii](https://github.com/moali007/CodeNotes/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/moali007/CodeNotes/tree/master/1048-longest-string-chain) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/moali007/CodeNotes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1162-as-far-from-land-as-possible](https://github.com/moali007/CodeNotes/tree/master/1162-as-far-from-land-as-possible) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1006-vowel-spellchecker](https://github.com/moali007/CodeNotes/tree/master/1006-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/moali007/CodeNotes/tree/master/1048-longest-string-chain) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/moali007/CodeNotes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/moali007/CodeNotes/tree/master/1189-maximum-number-of-balloons) |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/moali007/CodeNotes/tree/master/1256-rank-transform-of-an-array) |
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0594-longest-harmonious-subsequence](https://github.com/moali007/CodeNotes/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/moali007/CodeNotes/tree/master/0900-reordered-power-of-2) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/moali007/CodeNotes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/moali007/CodeNotes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/moali007/CodeNotes/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/moali007/CodeNotes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/moali007/CodeNotes/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -759,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/moali007/CodeNotes/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/moali007/CodeNotes/tree/master/1143-longest-common-subsequence) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/moali007/CodeNotes/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/moali007/CodeNotes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/moali007/CodeNotes/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/moali007/CodeNotes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/moali007/CodeNotes/tree/master/1321-get-equal-substrings-within-budget) |

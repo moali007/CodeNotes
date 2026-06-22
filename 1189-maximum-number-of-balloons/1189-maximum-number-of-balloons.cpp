@@ -19,7 +19,7 @@ public:
             if(ch == 'b' || ch == 'a' || ch == 'n'){
                 cnt = min(cnt, mp[ch]);
             }
-            else if(ch == 'o' || ch == 'l'){
+            else if(ch == 'l' || ch == 'o'){
                 cnt = min(cnt, mp[ch] / 2);
             }
         }

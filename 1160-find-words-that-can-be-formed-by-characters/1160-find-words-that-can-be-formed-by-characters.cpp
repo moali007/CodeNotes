@@ -16,7 +16,7 @@ public:
                 mp1[ch]++;
             }
 
-            bool valid = true;;
+            bool valid = true;
 
             for(auto it : mp1){
                 char ch = it.first;

@@ -7,7 +7,7 @@ public:
             mp[ch]++;
         }
 
-        string s = "balloon";
+        string s = "balon";
 
         int cnt = INT_MAX;
 

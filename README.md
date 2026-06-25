@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1813-maximum-erasure-value](https://github.com/moali007/CodeNotes/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/moali007/CodeNotes/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/moali007/CodeNotes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1861-rotating-the-box](https://github.com/moali007/CodeNotes/tree/master/1861-rotating-the-box) |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/moali007/CodeNotes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/moali007/CodeNotes/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
+| [1833-maximum-ice-cream-bars](https://github.com/moali007/CodeNotes/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/moali007/CodeNotes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/moali007/CodeNotes/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/moali007/CodeNotes/tree/master/2126-destroying-asteroids) |
@@ -715,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/moali007/CodeNotes/tree/master/1217-relative-sort-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/moali007/CodeNotes/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -857,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/moali007/CodeNotes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/moali007/CodeNotes/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/moali007/CodeNotes/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/moali007/CodeNotes/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/moali007/CodeNotes/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/moali007/CodeNotes/tree/master/1962-remove-stones-to-minimize-the-total) |

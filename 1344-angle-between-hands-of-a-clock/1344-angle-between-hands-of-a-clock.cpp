@@ -12,3 +12,8 @@ public:
         return min(diffAngle, 360.0 - diffAngle);
     }
 };
+
+//double hourAngle = (30.0 * (hour % 12)) + minutes * 0.5;
+//(30.0 * (hour % 12)) = hour wale haath ka angle wrt 12
+//minutes * 0.5 = minutes ke wajha se hour wala haath thoda move hoda, vo angle
+//ex: 3:30 = 30 min ke wajah se hour wala haath exact 3 par nahi hoga thoda aage hoga

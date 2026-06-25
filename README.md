@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1675-magnetic-force-between-two-balls](https://github.com/moali007/CodeNotes/tree/master/1675-magnetic-force-between-two-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/moali007/CodeNotes/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1732-find-the-highest-altitude](https://github.com/moali007/CodeNotes/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/moali007/CodeNotes/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/moali007/CodeNotes/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/moali007/CodeNotes/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/moali007/CodeNotes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/moali007/CodeNotes/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/moali007/CodeNotes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/moali007/CodeNotes/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/moali007/CodeNotes/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/moali007/CodeNotes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/moali007/CodeNotes/tree/master/2024-maximize-the-confusion-of-an-exam) |

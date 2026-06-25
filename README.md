@@ -607,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [0900-reordered-power-of-2](https://github.com/moali007/CodeNotes/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/moali007/CodeNotes/tree/master/0912-random-pick-with-weight) |
 | [0991-broken-calculator](https://github.com/moali007/CodeNotes/tree/master/0991-broken-calculator) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/moali007/CodeNotes/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/moali007/CodeNotes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/moali007/CodeNotes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/moali007/CodeNotes/tree/master/1448-maximum-69-number) |

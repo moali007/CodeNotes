@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3660-jump-game-ix](https://github.com/moali007/CodeNotes/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/moali007/CodeNotes/tree/master/3689-maximum-total-subarray-value-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/moali007/CodeNotes/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/moali007/CodeNotes/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/moali007/CodeNotes/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/moali007/CodeNotes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/moali007/CodeNotes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3618-find-the-original-typed-string-ii](https://github.com/moali007/CodeNotes/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/moali007/CodeNotes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/moali007/CodeNotes/tree/master/3643-zero-array-transformation-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/moali007/CodeNotes/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/moali007/CodeNotes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3606-coupon-code-validator](https://github.com/moali007/CodeNotes/tree/master/3606-coupon-code-validator) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moali007/CodeNotes/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3678-design-task-manager](https://github.com/moali007/CodeNotes/tree/master/3678-design-task-manager) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/moali007/CodeNotes/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/moali007/CodeNotes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/moali007/CodeNotes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/moali007/CodeNotes/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -479,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [1382-balance-a-binary-search-tree](https://github.com/moali007/CodeNotes/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/moali007/CodeNotes/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/moali007/CodeNotes/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/moali007/CodeNotes/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -567,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/moali007/CodeNotes/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/moali007/CodeNotes/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/moali007/CodeNotes/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/moali007/CodeNotes/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/moali007/CodeNotes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/moali007/CodeNotes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/moali007/CodeNotes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1464,6 +1469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/moali007/CodeNotes/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/moali007/CodeNotes/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/moali007/CodeNotes/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/moali007/CodeNotes/tree/master/3790-fruits-into-baskets-ii) |
 ## Probability and Statistics
@@ -1520,4 +1526,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/moali007/CodeNotes/tree/master/3161-block-placement-queries) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/moali007/CodeNotes/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

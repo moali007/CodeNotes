@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/moali007/CodeNotes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/moali007/CodeNotes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/moali007/CodeNotes/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/moali007/CodeNotes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/moali007/CodeNotes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/moali007/CodeNotes/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/moali007/CodeNotes/tree/master/3161-block-placement-queries) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2689-rearranging-fruits](https://github.com/moali007/CodeNotes/tree/master/2689-rearranging-fruits) |
 | [2721-sum-of-distances](https://github.com/moali007/CodeNotes/tree/master/2721-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/moali007/CodeNotes/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/moali007/CodeNotes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/moali007/CodeNotes/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/moali007/CodeNotes/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/moali007/CodeNotes/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -1232,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/moali007/CodeNotes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/moali007/CodeNotes/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/moali007/CodeNotes/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/moali007/CodeNotes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3199-distribute-candies-among-children-i](https://github.com/moali007/CodeNotes/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/moali007/CodeNotes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/moali007/CodeNotes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
